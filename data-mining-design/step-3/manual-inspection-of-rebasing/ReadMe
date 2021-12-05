@@ -1,0 +1,2178 @@
+_______________
+Manual checking of rebasing in our sample
+
+accumulo 106 - squash and merge
+accumulo 151 - squash and merge
+accumulo 173 - squash and merge
+accumulo 182 - squash and merge
+accumulo 184 - squash and merge
+
+accumulo 218 - squash and merge
+accumulo 219 - squash and merge
+accumulo 225 - squash and merge
+accumulo 227 - squash and merge
+accumulo 230 - squash and merge
+
+accumulo 232 - squash and merge
+accumulo 239 - squash and merge
+accumulo 259 - squash and merge
+accumulo-examples 1 - squash and merge
+accumulo-examples 11 - commit merge
+
+accumulo-examples 19 - commit merge
+accumulo-examples 20 - commit merge
+accumulo-examples 21 - commit merge
+accumulo-examples 24 - commit merge
+accumulo-examples 28 - commit merge
+
+accumulo-examples 31 - commit merge
+accumulo-examples 36 - commit merge
+accumulo-examples 39 - commit merge
+accumulo-examples 50 - commit merge
+accumulo-maven-plugin 3 - commit merge
+
+accumulo-maven-plugin 7 - commit merge
+accumulo-testing 3 - squash and commit
+accumulo-testing 9 - commit merge
+accumulo-testing 15 - commit merge
+accumulo-testing 21 - commit merge
+
+accumulo-testing 34 - commit merge
+accumulo-testing 43 - commit merge
+accumulo-testing 44 - commit merge
+accumulo-testing 48 - commit merge
+accumulo-testing 49 - commit merge
+
+accumulo-testing 51 - commit merge
+accumulo-testing 52 - commit merge
+accumulo-testing 64 - commit merge
+accumulo-testing 65 - commit merge
+accumulo-testing 73 - commit merge
+
+accumulo-testing 74 - commit merge
+accumulo-testing 85 - commit merge
+accumulo-testing 99 - commit merge
+accumulo-testing 105 - commit merge
+aries-journaled-events 12 - commit merge
+
+avro 91 - commit merge
+avro 100 - commit merge
+avro 350 - commit merge
+avro 357 - commit merge
+avro 385 - commit merge
+
+avro 393 - commit merge
+avro 422 - commit merge
+avro 459 - commit merge
+avro 525 - commit merge
+avro 544 - commit merge
+
+avro 556 - commit merge
+avro 558 - commit merge
+avro 561 - commit merge
+avro 570 - commit merge
+avro 574 - commit merge
+
+avro 581 - commit merge
+avro 589 - commit merge
+avro 622 - commit merge
+beam 3614 - commit merge
+beam 3721 - commit merge
+
+beam 3844 - commit merge
+beam 3918 - commit merge
+beam 4125 - commit merge
+beam 4171 - commit merge
+beam 4185 - commit merge
+
+beam 4189 - commit merge
+beam 4195 - commit merge
+beam 4205 - commit merge
+beam 4261 - commit merge
+beam 4267 - commit merge
+
+beam 4274 - commit merge
+beam 4276 - commit merge
+beam 4284 - commit merge
+beam 4286 - commit merge
+beam 4290 - commit merge
+
+beam 4309 - commit merge
+beam 4326 - commit merge
+beam 4353 - commit merge
+beam 4373 - commit merge
+beam 4401 - commit merge
+
+beam 4407 - commit merge
+beam 4419 - commit merge
+beam 4443 - commit merge
+beam 4449 - commit merge
+beam 4455 - commit merge
+
+beam 4458 - commit merge
+beam 4460 - commit merge
+beam 4463 - commit merge
+beam 4474 - commit merge
+beam 4532 - commit merge
+
+beam 4539 - commit merge
+beam 4624 - commit merge
+beam 4736 - commit merge
+beam 4749 - commit merge
+beam 4753 - commit merge
+
+beam 4755 - commit merge
+beam 4770 - commit merge
+beam 4773 - commit merge
+beam 4778 - commit merge
+beam 4825 - commit merge
+
+beam 4833 - commit merge
+beam 4841 - commit merge
+beam 4844 - commit merge
+beam 4861 - commit merge
+beam 4868 - commit merge
+
+beam 4870 - commit merge
+beam 4885 - commit merge
+beam 4922 - commit merge
+beam 4938 - commit merge
+beam 4958 - commit merge
+
+beam 5001 - commit merge
+beam 5029 - commit merge
+beam 5109 - commit merge
+beam 5110 - commit merge
+beam 5165 - commit merge
+
+beam 5178 - commit merge
+beam 5179 - commit merge
+beam 5214 - commit merge
+beam 5259 - commit merge
+beam 5272 - commit merge
+
+beam 5289 - commit merge
+beam 5301 - commit merge
+beam 5358 - commit merge
+beam 5397 - commit merge
+beam 5422 - commit merge
+
+beam 5425 - commit merge
+beam 5448 - commit merge
+beam 5449 - commit merge
+beam 5528 - commit merge
+beam 5530 - commit merge
+
+beam 5562 - commit merge
+beam 5579 - commit merge
+beam 5621 - commit merge 
+beam 5643 - commit merge
+beam 5700 - commit merge
+
+beam 5705 - commit merge
+beam 5733 - commit merge
+beam 5758 - commit merge
+beam 5772 - commit merge
+beam 5785 - commit merge
+
+beam 5810 - commit merge
+beam 5856 - commit merge
+beam 5873 - commit merge
+beam 5909 - commit merge
+beam 5952 - commit merge
+
+beam 5973 - commit merge
+beam 5976 - commit merge
+beam 5989 - commit merge
+beam 6000 - commit merge
+beam 6005 - commit merge
+
+beam 6021 - commit merge
+beam 6042 - commit merge
+beam 6045 - commit merge
+beam 6050 - commit merge
+beam 6052 - commit merge
+
+beam 6061 - commit merge
+beam 6110 - commit merge
+beam 6114 - commit merge
+beam 6133 - commit merge
+beam 6160 - commit merge
+
+beam 6162 - commit merge
+beam 6197 - commit merge
+beam 6247 - commit merge
+beam 6255 - commit merge
+beam 6261 - commit merge
+
+beam 6268 - commit merge
+beam 6291 - commit merge
+beam 6301 - commit merge
+beam 6317 - commit merge
+beam 6318 - commit merge
+
+beam 6378 - commit merge
+beam 6391 - commit merge
+beam 6392 - commit merge
+beam 6424 - commit merge
+beam 6443 - commit merge
+
+beam 6463 - commit merge
+beam 6476 - commit merge
+beam 6484 - commit merge
+beam 6489 - commit merge
+beam 6502 - commit merge
+
+beam 6504 - commit merge
+beam 6516 - commit merge
+beam 6587 - commit merge
+beam 6664 - commit merge
+beam 6701 - commit merge
+
+beam 6745 - commit merge
+beam 6852 - commit merge
+beam 6863 - commit merge
+beam 6870 - commit merge
+beam 6873 - commit merge
+
+beam 6880 - commit merge
+beam 6893 - commit merge
+beam 6901 - commit merge
+beam 6920 - commit merge
+beam 6922 - commit merge
+
+beam 6923 - commit merge
+beam 6946 - commit merge
+beam 6976 - commit merge
+beam 6985 - commit merge
+beam 7000 - commit merge
+
+beam 7019 - commit merge
+beam 7069 - commit merge
+beam 7084 - commit merge
+beam 7087 - commit merge
+beam 7149 - commit merge
+
+beam 7175 - commit merge
+beam 7203 - commit merge
+beam 7271 - commit merge
+beam 7322 - commit merge
+beam 7405 - commit merge
+
+beam 7443 - commit merge
+beam 7486 - commit merge
+beam 7518 - commit merge
+beam 7529 - commit merge
+beam 7536 - commit merge
+
+beam 7639 - commit merge
+beam 7680 - commit merge
+beam 7696 - commit merge
+beam 7714 - commit merge
+beam 7720 - commit merge
+
+beam 7722 - commit merge
+beam 7728 - commit merge
+beam 7756 - commit merge
+beam 7769 - commit merge
+beam 7776 - commit merge
+
+beam 7818 - commit merge
+beam 7828 - commit merge
+beam 7838 - commit merge
+beam 7904 - commit merge
+beam 7921 - commit merge
+
+beam 7932 - commit merge
+beam 7958 - commit merge
+beam 7959 - commit merge
+beam 7960 - commit merge
+beam 7983 - commit merge
+
+beam 7985 - commit merge
+beam 7996 - commit merge
+beam 8006 - commit merge
+beam 8015 - commit merge
+beam 8053 - commit merge
+
+beam 8065 - commit merge
+beam 8103 - commit merge
+beam 8139 - commit merge
+beam 8140 - commit merge
+beam 8158 - commit merge
+
+beam 8182 - commit merge
+beam 8188 - commit merge
+beam 8221 - commit merge
+beam 8229 - commit merge
+beam 8243 - commit merge
+
+beam 8252 - commit merge
+beam 8316 - commit merge
+beam 8343 - commit merge
+beam 8363 - commit merge
+beam 8365 - commit merge
+
+beam 8388 - commit merge
+beam 8408 - commit merge
+beam 8427 - commit merge
+beam 8542 - commit merge
+beam 8553 - commit merge
+
+beam 8559 - commit merge
+beam 8584 - commit merge
+beam 8613 - commit merge
+beam 8620 - commit merge
+beam 8629 - commit merge
+
+beam 8652 - commit merge
+beam 8683 - commit merge
+beam 8725 - commit merge
+beam 8756 - commit merge
+beam 8791 - commit merge
+
+beam 8797 - commit merge
+beam 8799 - commit merge
+beam 8803 - commit merge
+beam 8827 - commit merge
+beam 8836 - commit merge
+
+beam 8843 - commit merge
+beam 8853 - commit merge
+beam 8881 - commit merge
+beam 8910 - squash and merge
+beam 8914 - commit merge
+
+beam 8929 - commit merge
+beam 8950 - commit merge
+beam 8981 - commit merge
+beam 9005 - commit merge
+beam 9023 - commit merge
+
+beam 9077 - commit merge
+beam 9089 - commit merge
+beam 9107 - commit merge
+beam 9129 - commit merge
+beam 9160 - commit merge
+
+beam 9174 - commit merge
+beam 9179 - commit merge
+beam 9182 - commit merge
+beam 9184 - commit merge
+beam 9186 - commit merge
+
+beam 9201 - commit merge
+beam 9206 - commit merge
+beam 9242 - commit merge
+beam 9285 - commit merge
+beam 9293 - commit merge
+
+beam 9304 - commit merge
+beam 9308 - commit merge
+beam 9347 - commit merge
+beam 9375 - commit merge
+beam 9387 - commit merge
+
+beam 9405 - commit merge
+brooklyn-server 34 - commit merge
+brooklyn-server 38 - commit merge
+brooklyn-server 39 - commit merge
+brooklyn-server 47 - commit merge
+
+brooklyn-server 96 - commit merge
+brooklyn-server 131 - commit merge
+brooklyn-server 146 - commit merge
+brooklyn-server 266 - commit merge
+brooklyn-server 294 - commit merge
+
+brooklyn-server 308 - commit merge
+brooklyn-server 331 - commit merge
+brooklyn-server 340 - commit merge
+brooklyn-server 359 - commit merge
+brooklyn-server 411 - commit merge
+
+brooklyn-server 441 - commit merge
+brooklyn-server 468 - commit merge
+brooklyn-server 488 - commit merge
+brooklyn-server 523 - commit merge
+brooklyn-server 549 - squash and merge
+
+brooklyn-server 561 - commit merge
+brooklyn-server 584 - commit merge
+brooklyn-server 613 - commit merge
+brooklyn-server 635 - commit merge
+brooklyn-server 714 - commit merge
+
+brooklyn-server 715 - commit merge
+brooklyn-server 723 - commit merge
+brooklyn-server 731 - commit merge
+brooklyn-server 734 - commit merge
+brooklyn-server 742 - squash and merge
+
+brooklyn-server 744 - commit merge
+brooklyn-server 748 - commit merge
+brooklyn-server 756 - commit merge
+brooklyn-server 773 - commit merge
+brooklyn-server 782 - commit merge
+
+brooklyn-server 790 - commit merge
+brooklyn-server 798 - commit merge
+brooklyn-server 812 - commit merge
+brooklyn-server 818 - commit merge
+brooklyn-server 819 - commit merge
+
+brooklyn-server 860 - commit merge
+brooklyn-server 868 - commit merge
+brooklyn-server 873 - commit merge
+brooklyn-server 887 - commit merge
+brooklyn-server 895 - commit merge
+
+brooklyn-server 908 - commit merge
+brooklyn-server 932 - commit merge
+brooklyn-server 935 - commit merge
+brooklyn-server 962 - commit merge
+brooklyn-server 963 - commit merge
+
+brooklyn-server 964 - commit merge
+brooklyn-server 967 - commit merge
+brooklyn-server 975 - commit merge
+brooklyn-server 989 - commit merge
+brooklyn-server 1049 - commit merge
+
+brooklyn-server 1061 - commit merge
+camel-quarkus 154 - commit merge
+cloudstack 65 - commit merge
+cloudstack 233 - commit merge
+cloudstack 330 - commit merge
+
+cloudstack 559 - commit merge
+cloudstack 572 - commit merge
+cloudstack 609 - commit merge
+cloudstack 664 - commit merge
+cloudstack 741 - commit merge
+
+cloudstack 765 - commit merge
+cloudstack 806 - commit merge
+cloudstack 908 - commit merge
+cloudstack 1011 - commit merge
+cloudstack 1254 - squash and merge
+
+cloudstack 1310 - commit merge
+cloudstack 1332 - squash and merge
+cloudstack 1352 - commit merge
+cloudstack 1430 - commit merge
+cloudstack 1431 - commit merge
+
+cloudstack 1445 - commit merge
+cloudstack 1543 - commit merge
+cloudstack 1567 - commit merge
+cloudstack 1581 - commit merge
+cloudstack 1594 - commit merge
+
+cloudstack 2045 - commit merge
+cloudstack 2071 - commit merge
+cloudstack 2316 - commit merge
+cloudstack 2335 - commit merge
+cloudstack 2342 - commit merge
+
+cloudstack 2405 - commit merge
+cloudstack 2420 - commit merge
+cloudstack 2460 - commit merge
+cloudstack 2464 - commit merge
+cloudstack 2468 - commit merge
+
+cloudstack 2476 - commit merge
+cloudstack 2489 - commit merge
+cloudstack 2490 - commit merge
+cloudstack 2510 - commit merge
+cloudstack 2538 - commit merge
+
+cloudstack 2553 - commit merge
+cloudstack 2559 - commit merge
+cloudstack 2580 - commit merge
+cloudstack 2591 - commit merge
+cloudstack 2598 - commit merge
+
+cloudstack 2606 - commit merge
+cloudstack 2639 - commit merge
+cloudstack 2672 - commit merge
+cloudstack 2694 - commit merge
+cloudstack 2699 - commit merge
+
+cloudstack 2706 - commit merge
+cloudstack 2714 - commit merge
+cloudstack 2739 - commit merge
+cloudstack 2752 - commit merge
+cloudstack 2756 - commit merge
+
+cloudstack 2794 - commit merge
+cloudstack 2796 - commit merge
+cloudstack 2817 - commit merge
+cloudstack 2833 - commit merge
+cloudstack 2878 - commit merge
+
+cloudstack 2896 - commit merge
+cloudstack 2898 - commit merge
+cloudstack 2902 - commit merge
+cloudstack 2907 - commit merge
+cloudstack 2919 - commit merge
+
+cloudstack 3021 - commit merge
+cloudstack 3026 - commit merge
+cloudstack 3028 - commit merge
+cloudstack 3037 - commit merge
+cloudstack 3042 - commit merge
+
+cloudstack 3069 - commit merge
+cloudstack 3095 - commit merge
+cloudstack 3120 - commit merge
+cloudstack 3129 - commit merge
+cloudstack 3143 - commit merge
+
+cloudstack 3194 - commit merge
+cloudstack 3210 - commit merge
+cloudstack 3239 - commit merge
+cloudstack 3276 - commit merge
+cloudstack 3319 - commit merge
+
+cloudstack 3320 - commit merge
+cloudstack 3333 - commit merge
+cloudstack 3336 - commit merge
+cloudstack 3356 - commit merge
+cloudstack 3367 - commit merge
+
+cloudstack 3406 - commit merge
+cloudstack 3419 - commit merge
+cloudstack 3430 - commit merge
+cloudstack 3454 - commit merge
+cloudstack 3457 - commit merge
+
+cloudstack 3476 - commit merge
+cloudstack 3480 - commit merge
+cloudstack 3483 - commit merge
+cloudstack 3486 - commit merge
+cloudstack 3501 - commit merge
+
+cloudstack 3502 - commit merge
+cloudstack 3529 - commit merge
+cloudstack 3534 - commit merge
+cloudstack 3547 - commit merge
+cloudstack 3549 - commit merge
+
+commons-text 4 - commit merge
+commons-text 6 - commit merge
+commons-text 21 - commit merge
+commons-text 39 - commit merge
+commons-text 45 - commit merge
+
+commons-text 85 - commit merge
+commons-text 100 - commit merge
+commons-text 111 - commit merge
+cordova-android 572 - commit merge
+cordova-android 624 - commit merge
+
+cordova-android 656 - commit merge
+cordova-android 784 - commit merge
+drill 538 - commit merge
+drill 559 - squash and merge
+drill 1442 - commit merge
+
+dubbo 689 - commit merge
+dubbo 790 - commit merge
+dubbo 1232 - commit merge
+dubbo 1331 - commit merge
+dubbo 1376 - commit merge
+
+dubbo 1403 - commit merge
+dubbo 1506 - commit merge
+dubbo 1611 - commit merge
+dubbo 1612 - commit merge
+dubbo 1647 - commit merge
+
+dubbo 1738 - commit merge
+dubbo 1764 - commit merge
+dubbo 1820 - commit merge
+dubbo 1836 - commit merge
+dubbo 1966 - commit merge
+
+dubbo 1973 - commit merge
+dubbo 2004 - commit merge
+dubbo 2018 - commit merge
+dubbo 2024 - commit merge
+dubbo 2077 - commit merge
+
+dubbo 2079 - commit merge
+dubbo 2114 - commit merge
+dubbo 2137 - commit merge
+dubbo 2152 - commit merge
+dubbo 2171 - commit merge
+
+dubbo 2279 - commit merge
+dubbo 2399 - commit merge
+dubbo 2445 - commit merge
+dubbo 2470 - commit merge
+dubbo 2480 - commit merge
+
+dubbo 2517 - commit merge
+dubbo 2529 - commit merge
+dubbo 2554 - commit merge
+dubbo 2562 - commit merge
+dubbo 2586 - commit merge
+
+dubbo 2607 - commit merge
+dubbo 2626 - commit merge
+dubbo 2640 - commit merge
+dubbo 2658 - commit merge
+dubbo 2681 - commit merge
+
+dubbo 2687 - commit merge
+dubbo 2688 - commit merge
+dubbo 2691 - commit merge
+dubbo 2703 - commit merge
+dubbo 2763 - commit merge
+
+dubbo 2797 - commit merge
+dubbo 2817 - commit merge
+dubbo 2820 - commit merge
+dubbo 2909 - commit merge
+dubbo 2929 - commit merge
+
+dubbo 3004 - commit merge
+dubbo 3035 - commit merge
+dubbo 3096 - commit merge
+dubbo 3115 - commit merge
+dubbo 3135 - commit merge
+
+dubbo 3162 - commit merge
+dubbo 3173 - commit merge
+dubbo 3174 - commit merge
+dubbo 3184 - commit merge
+dubbo 3185 - commit merge
+
+dubbo 3197 - commit merge
+dubbo 3199 - commit merge
+dubbo 3210 - commit merge
+dubbo 3211 - commit merge
+dubbo 3233 - commit merge
+
+dubbo 3239 - commit merge
+dubbo 3240 - commit merge
+dubbo 3241 - commit merge
+dubbo 3255 - commit merge
+dubbo 3257 - commit merge
+
+dubbo 3264 - commit merge
+dubbo 3280 - commit merge
+dubbo 3299 - commit merge
+dubbo 3301 - commit merge
+dubbo 3303 - commit merge
+
+dubbo 3317 - commit merge
+dubbo 3318 - commit merge
+dubbo 3331 - commit merge
+dubbo 3333 - commit merge
+dubbo 3337 - commit merge
+
+dubbo 3383 - commit merge
+dubbo 3410 - commit merge
+dubbo 3412 - commit merge
+dubbo 3418 - commit merge
+dubbo 3424 - commit merge
+
+dubbo 3430 - commit merge
+dubbo 3447 - commit merge
+dubbo 3455 - commit merge
+dubbo 3456 - commit merge
+dubbo 3520 - commit merge
+
+dubbo 3536 - commit merge
+dubbo 3549 - commit merge
+dubbo 3558 - commit merge
+dubbo 3578 - commit merge
+dubbo 3590 - commit merge
+
+dubbo 3593 - commit merge
+dubbo 3654 - commit merge
+dubbo 3675 - commit merge
+dubbo 3685 - commit merge
+dubbo 3734 - commit merge
+
+dubbo 3748 - commit merge
+dubbo 3767 - commit merge
+dubbo 3786 - commit merge
+dubbo 3833 - commit merge
+dubbo 3852 - commit merge
+
+dubbo 3857 - commit merge
+dubbo 3863 - commit merge
+dubbo 3887 - commit merge
+dubbo 3888 - commit merge
+dubbo 3906 - commit merge
+
+dubbo 3941 - commit merge
+dubbo 3957 - commit merge
+dubbo 3987 - commit merge
+dubbo 3988 - commit merge
+dubbo 4053 - commit merge
+
+dubbo 4099 - commit merge
+dubbo 4101 - commit merge
+dubbo 4110 - commit merge
+dubbo 4127 - commit merge
+dubbo 4129 - commit merge
+
+dubbo 4132 - commit merge
+dubbo 4186 - commit merge
+dubbo 4188 - commit merge
+dubbo 4190 - commit merge
+dubbo 4203 - commit merge
+
+dubbo 4208 - commit merge
+dubbo 4226 - commit merge
+dubbo 4236 - commit merge
+dubbo 4260 - commit merge
+dubbo 4293 - commit merge
+
+dubbo 4308 - commit merge
+dubbo 4358 - commit merge
+dubbo 4359 - commit merge
+dubbo 4360 - commit merge
+dubbo 4368 - commit merge
+
+dubbo 4425 - commit merge
+dubbo 4453 - commit merge
+dubbo 4598 - commit merge
+dubbo 4705 - commit merge
+dubbo 4767 - commit merge
+
+dubbo 4832 - commit merge
+dubbo 4865 - commit merge
+dubbo 4870 - commit merge
+dubbo 4880 - commit merge
+dubbo 4948 - commit merge
+
+dubbo-admin 42 - commit merge
+dubbo-admin 63 - commit merge
+dubbo-admin 70 - commit merge
+dubbo-admin 220 - commit merge
+dubbo-admin 253 - commit merge
+
+dubbo-admin 257 - commit merge
+dubbo-admin 268 - commit merge
+dubbo-hessian-lite 8 - commit merge
+fineract 452 - squash and merge
+flink 91 - commit merge
+
+flink 2096 - squash and merge
+flink 4055 - squash and merge
+flink 6268 - commit merge
+flink 6395 - commit merge
+flink 6421 - commit merge
+
+flink 6425 - commit merge
+flink 6442 - commit merge
+flink 6551 - commit merge
+flink 6610 - commit merge
+flink 6632 - commit merge
+
+flink 6645 - commit merge
+flink 6761 - commit merge
+flink 6841 - commit merge
+flink 6907 - commit merge
+flink 6915 - commit merge
+
+flink 6939 - commit merge
+flink 6959 - commit merge
+flink 6965 - commit merge
+flink 7165 - commit merge
+flink 7174 - commit merge
+
+flink 7283 - commit merge
+flink 7295 - commit merge
+flink 7327 - commit merge
+flink 7342 - commit merge
+flink 7380 - commit merge
+
+flink 7398 - commit merge
+flink 7402 - commit merge
+flink 7418 - commit merge
+flink 7533 - commit merge
+flink 7582 - commit merge
+
+flink 7600 - commit merge
+flink 7708 - commit merge
+flink 7779 - commit merge
+flink 7785 - commit merge
+flink 7897 - commit merge
+
+flink 7910 - commit merge
+flink 7918 - squash and merge
+flink 7944 - commit merge
+flink 7945 - commit merge
+flink 7952 - commit merge
+
+flink 7966 - commit merge
+flink 7968 - commit merge
+flink 7970 - commit merge
+flink 7971 - commit merge
+flink 8010 - commit merge
+
+flink 8019 - commit merge
+flink 8083 - commit merge
+flink 8088 - commit merge
+flink 8093 - commit merge
+flink 8125 - commit merge
+
+flink 8140 - commit merge
+flink 8156 - commit merge
+flink 8162 - commit merge
+flink 8179 - commit merge
+flink 8216 - commit merge
+
+flink 8222 - commit merge
+flink 8269 - commit merge
+flink 8275 - commit merge
+flink 8469 - commit merge
+flink 8492 - commit merge
+
+flink 8498 - commit merge
+flink 8511 - commit merge
+flink 8605 - commit merge
+flink 8620 - commit merge
+flink 8653 - commit merge
+
+flink 8668 - commit merge
+flink 8978 - commit merge
+flink 9034 - commit merge
+flink 9103 - commit merge
+flink 9117 - commit merge
+
+flink 9123 - commit merge
+flink 9128 - commit merge
+flink 9138 - commit merge
+flink 9140 - commit merge
+flink 9143 - commit merge
+
+flink 9166 - commit merge
+flink 9178 - commit merge
+flink 9258 - commit merge
+flink 9451 - commit merge
+fluo 350 - commit merge
+
+fluo 634 - commit merge
+fluo 658 - commit merge
+fluo 687 - squash and merge
+fluo 698 - commit merge
+fluo 720 - squash and merge
+
+fluo 721 - squash and merge
+fluo 744 - squash and merge
+fluo 763 - squash and merge
+fluo 780 - squash and merge
+fluo 789 - squash and merge
+
+fluo 792 - squash and merge
+fluo 804 - squash and merge
+fluo 819 - squash and merge
+fluo 822 - squash and merge
+fluo 837 - squash and merge
+
+fluo 862 - squash and merge
+fluo 877 - commit merge
+fluo 884 - commit merge
+fluo 886 - commit merge
+fluo 902 - commit merge
+
+fluo 904 - commit merge
+fluo 913 - commit merge
+fluo 926 - commit merge
+fluo 928 - commit merge
+fluo 929 - commit merge
+
+fluo 930 - commit merge
+fluo 940 - commit merge
+fluo 964 - commit merge
+fluo 1012 - commit merge
+fluo 1031 - commit merge
+
+fluo 1032 - commit merge
+fluo 1037 - commit merge
+fluo 1040 - commit merge
+fluo 1043 - commit merge
+fluo 1045 - commit merge
+
+fluo 1051 - commit merge
+fluo 1059 - commit merge
+fluo 1060 - commit merge
+fluo 1067 - commit merge
+fluo 1074 - commit merge
+
+fluo 1075 - commit merge
+fluo 1077 - commit merge
+fluo-recipes 96 - squash and merge
+fluo-recipes 107 - squash and merge
+fluo-recipes 110 - squash and merge
+
+fluo-recipes 112 - squash and merge
+fluo-recipes 130 - squash and merge
+geode-benchmarks 4 - commit merge
+geode-benchmarks 21 - commit merge
+geode-benchmarks 50 - commit merge
+
+geode-benchmarks 88 - commit merge
+geode-benchmarks 90 - commit merge
+geronimo-opentracing 1 - commit merge
+gora 6 - commit merge
+gora 29 - commit merge
+
+gora 32 - commit merge
+gora 71 - commit merge
+gora 72 - commit merge
+gora 88 - commit merge
+gora 95 - commit merge
+
+gora 127 - commit merge
+gora 134 - commit merge
+gora 158 - commit merge
+gora 131 - commit merge
+gora 173 - commit merge
+
+groovy 122 - commit merge
+groovy 993 - commit merge
+guacamole-client 209 - squash and merge
+guacamole-client 210 - squash and merge
+hadoop 462 - commit merge
+
+hadoop 526 - commit merge
+hadoop 653 - commit merge
+hadoop 662 - commit merge
+hadoop 676 - commit merge
+hadoop 681 - commit merge
+
+hadoop 682 - commit merge
+hadoop 724 - commit merge
+hadoop 737 - commit merge
+hadoop 769 - commit merge
+hadoop 801 - commit merge
+
+hadoop 815 - commit merge
+hadoop 822 - commit merge
+hadoop 830 - commit merge
+hadoop 868 - commit merge
+hadoop 869 - commit merge
+
+hadoop 870 - commit merge
+hadoop 875 - commit merge
+hadoop 894 - commit merge
+hadoop 922 - commit merge
+hadoop 937 - commit merge
+
+hadoop 942 - commit merge
+hadoop 954 - commit merge
+hadoop 1013 - commit merge
+hadoop 1022 - commit merge
+hadoop 1031 - commit merge
+
+hadoop 1075 - commit merge
+hadoop 1140 - commit merge
+hadoop 1158 - commit merge
+hadoop 1164 - commit merge
+hadoop 1240 - commit merge
+
+hadoop 1252 - commit merge
+hadoop 1258 - commit merge
+hadoop 1266 - commit merge
+hadoop 1296 - commit merge
+hadoop 1304 - commit merge
+
+hadoop 1306 - commit merge
+hadoop 1308 - commit merge
+hadoop 1310 - commit merge
+hadoop 1316 - commit merge
+hadoop 1319 - commit merge
+
+hadoop 1334 - commit merge
+hadoop 1362 - commit merge
+hbase-filesystem 1 - commit merge
+hbase-filesystem 3 - commit merge
+hbase-operator-tools 2 - commit merge
+
+helix 65 - squash and merge
+incubator-datasketches-memory 46 - commit merge
+incubator-datasketches-memory 60 - commit merge
+incubator-datasketches-memory 64 - commit merge
+incubator-datasketches-memory 77 - commit merge
+
+incubator-datasketches-memory 86 - commit merge
+incubator-datasketches-memory 109 - commit merge
+incubator-datasketches-pig 45 - commit merge
+incubator-dlab 126 - commit merge
+incubator-dolphinscheduler 288 - commit merge
+
+incubator-hivemall 91 - commit merge
+incubator-iceberg 45 - commit merge
+incubator-iceberg 87 - commit merge
+incubator-iceberg 107 - commit merge
+incubator-iceberg 110 - commit merge
+
+incubator-iceberg 119 - commit merge
+incubator-iceberg 131 - commit merge
+incubator-iceberg 136 - commit merge
+incubator-iceberg 143 - commit merge
+incubator-iceberg 146 - commit merge
+
+incubator-iceberg 183 - commit merge
+incubator-iceberg 188 - commit merge
+incubator-iceberg 198 - commit merge
+incubator-iceberg 206 - commit merge
+incubator-iceberg 219 - commit merge
+
+incubator-iceberg 224 - commit merge
+incubator-iceberg 241 - commit merge
+incubator-iceberg 246 - commit merge
+incubator-iceberg 254 - commit merge
+incubator-iceberg 267 - commit merge
+
+incubator-iceberg 298 - commit merge
+incubator-iceberg 301 - commit merge
+incubator-iceberg 341 - commit merge
+incubator-iceberg 350 - commit merge
+incubator-iceberg 365 - commit merge
+
+incubator-iceberg 372 - commit merge
+incubator-iceberg 377 - commit merge
+incubator-iceberg 395 - commit merge
+incubator-iceberg 406 - commit merge
+incubator-iotdb 2 - commit merge
+
+incubator-iotdb 5 - commit merge
+incubator-iotdb 37 - commit merge
+incubator-iotdb 49 - commit merge
+incubator-iotdb 50 - commit merge
+incubator-iotdb 51 - commit merge
+
+incubator-iotdb 53 - commit merge
+incubator-iotdb 65 - commit merge
+incubator-iotdb 67 - commit merge
+incubator-iotdb 72 - commit merge
+incubator-iotdb 74 - commit merge
+
+incubator-iotdb 75 - commit merge
+incubator-iotdb 76 - commit merge
+incubator-iotdb 78 - commit merge
+incubator-iotdb 96 - commit merge
+incubator-iotdb 98 - commit merge
+
+incubator-iotdb 100 - commit merge
+incubator-iotdb 105 - commit merge
+incubator-iotdb 114 - commit merge
+incubator-iotdb 123 - commit merge
+incubator-iotdb 135 - commit merge
+
+incubator-iotdb 143 - commit merge
+incubator-iotdb 144 - commit merge
+incubator-iotdb 145 - commit merge
+incubator-iotdb 155 - commit merge
+incubator-iotdb 180 - commit merge
+
+incubator-iotdb 196 - commit merge
+incubator-iotdb 224 - commit merge
+incubator-iotdb 249 - commit merge
+incubator-iotdb 269 - commit merge
+incubator-iotdb 277 - commit merge
+
+incubator-iotdb 294 - commit merge
+incubator-iotdb 300 - commit merge
+incubator-iotdb 319 - commit merge
+incubator-iotdb 341 - commit merge
+incubator-iotdb 342 - commit merge
+
+incubator-iotdb 347 - commit merge
+incubator-iotdb 353 - commit merge
+incubator-iotdb 359 - commit merge
+incubator-iotdb 367 - commit merge
+incubator-pinot 433 - squash and merge
+
+incubator-pinot 479 - squash and merge
+incubator-pinot 619 - squash and merge
+incubator-pinot 642 - squash and merge
+incubator-pinot 728 - squash and merge
+incubator-pinot 822 - squash and merge
+
+incubator-pinot 880 - squash and merge
+incubator-pinot 897 - squash and merge
+incubator-pinot 908 - squash and merge
+incubator-pinot 936 - squash and merge
+incubator-pinot 937 - squash and merge
+
+incubator-pinot 991 - squash and merge
+incubator-sdap-mudrod 9 - commit merge
+incubator-sdap-mudrod 17 - commit merge
+incubator-sdap-mudrod 22 - commit merge
+incubator-sdap-mudrod 29 - commit merge
+
+incubator-taverna-mobile 1 - commit merge
+incubator-taverna-mobile 21 - commit merge
+incubator-taverna-mobile 23 - commit merge
+incubator-taverna-mobile 24 - commit merge
+incubator-taverna-mobile 34 - commit merge
+
+incubator-taverna-mobile 56 - commit merge
+james-project 47 - commit merge
+jclouds-labs 1 - commit merge
+jena 168 - squash and merge
+joshua 32 - commit merge
+
+kafka 1573 - commit merge
+kafka 4305 - commit merge
+kafka 4307 - commit merge
+kafka 4332 - commit merge
+kafka 4333 - commit merge
+
+kafka 4343 - commit merge
+kafka 4347 - commit merge
+kafka 4351 - commit merge
+kafka 4357 - commit merge
+kafka 4360 - commit merge
+
+kafka 4361 - commit merge
+kafka 4365 - commit merge
+kafka 4399 - commit merge
+kafka 4430 - commit merge
+kafka 4433 - commit merge
+
+kafka 4439 - commit merge
+kafka 4451 - commit merge
+kafka 4456 - commit merge
+kafka 4489 - commit merge
+kafka 4495 - commit merge
+
+kafka 4499 - commit merge
+kafka 4507 - commit merge
+kafka 4513 - commit merge
+kafka 4514 - commit merge
+kafka 4516 - commit merge
+
+kafka 4517 - commit merge
+kafka 4523 - commit merge
+kafka 4526 - commit merge
+kafka 4530 - commit merge
+kafka 4532 - commit merge
+
+kafka 4542 - commit merge
+kafka 4546 - commit merge
+kafka 4549 - commit merge
+kafka 4555 - commit merge
+kafka 4558 - commit merge
+
+kafka 4559 - commit merge
+kafka 4560 - commit merge
+kafka 4562 - commit merge
+kafka 4570 - commit merge
+kafka 4574 - commit merge
+
+kafka 4579 - commit merge
+kafka 4601 - commit merge
+kafka 4603 - commit merge
+kafka 4617 - commit merge
+kafka 4623 - commit merge
+
+kafka 4628 - commit merge
+kafka 4630 - commit merge
+kafka 4633 - commit merge
+kafka 4640 - commit merge
+kafka 4668 - commit merge
+
+kafka 4670 - commit merge
+kafka 4698 - commit merge
+kafka 4726 - commit merge
+kafka 4735 - commit merge
+kafka 4745 - commit merge
+
+kafka 4757 - commit merge
+kafka 4767 - commit merge
+kafka 4771 - commit merge
+kafka 4781 - commit merge
+kafka 4788 - commit merge
+
+kafka 4796 - commit merge
+kafka 4797 - commit merge
+kafka 4799 - commit merge
+kafka 4811 - commit merge
+kafka 4813 - commit merge
+
+kafka 4825 - commit merge
+kafka 4826 - commit merge
+kafka 4827 - commit merge
+kafka 4847 - commit merge
+kafka 4866 - commit merge
+
+kafka 4891 - commit merge
+kafka 4893 - commit merge
+kafka 4907 - commit merge
+kafka 4917 - commit merge
+kafka 4922 - commit merge
+
+kafka 4925 - commit merge
+kafka 4949 - commit merge
+kafka 4962 - commit merge
+kafka 4968 - commit merge
+kafka 4978 - commit merge
+
+kafka 4985 - commit merge
+kafka 4988 - commit merge
+kafka 5009 - commit merge
+kafka 5052 - commit merge
+kafka 5060 - commit merge
+
+kafka 5071 - commit merge
+kafka 5074 - commit merge
+kafka 5106 - commit merge
+kafka 5111 - commit merge
+kafka 5128 - commit merge
+
+kafka 5132 - commit merge
+kafka 5160 - commit merge
+kafka 5180 - commit merge
+kafka 5189 - commit merge
+kafka 5194 - commit merge
+
+kafka 5215 - commit merge
+kafka 5216 - commit merge
+kafka 5219 - commit merge
+kafka 5239 - commit merge
+kafka 5245 - commit merge
+
+kafka 5253 - commit merge
+kafka 5256 - commit merge
+kafka 5259 - commit merge
+kafka 5269 - commit merge
+kafka 5282 - commit merge
+
+kafka 5292 - commit merge
+kafka 5301 - commit merge
+kafka 5305 - commit merge
+kafka 5308 - commit merge
+kafka 5311 - commit merge
+
+kafka 5336 - commit merge
+kafka 5341 - commit merge
+kafka 5368 - commit merge
+kafka 5371 - commit merge
+kafka 5391 - commit merge
+
+kafka 5423 - commit merge
+kafka 5436 - commit merge
+kafka 5453 - commit merge
+kafka 5484 - commit merge
+kafka 5487 - commit merge
+
+kafka 5501 - commit merge
+kafka 5520 - commit merge
+kafka 5525 - commit merge
+kafka 5528 - commit merge
+kafka 5532 - commit merge
+
+kafka 5536 - commit merge
+kafka 5548 - commit merge
+kafka 5552 - commit merge
+kafka 5557 - commit merge
+kafka 5566 - commit merge
+
+kafka 5579 - commit merge
+kafka 5590 - commit merge
+kafka 5593 - commit merge
+kafka 5613 - commit merge
+kafka 5614 - commit merge
+
+kafka 5618 - commit merge
+kafka 5624 - commit merge
+kafka 5635 - commit merge
+kafka 5641 - commit merge
+kafka 5651 - commit merge
+
+kafka 5656 - commit merge
+kafka 5657 - commit merge
+kafka 5674 - commit merge
+kafka 5676 - commit merge
+kafka 5687 - commit merge
+
+kafka 5699 - commit merge
+kafka 5717 - commit merge
+kafka 5720 - commit merge
+kafka 5724 - commit merge
+kafka 5730 - commit merge
+
+kafka 5733 - commit merge
+kafka 5755 - commit merge
+kafka 5767 - commit merge
+kafka 5771 - commit merge
+kafka 5773 - commit merge
+
+kafka 5777 - commit merge
+kafka 5784 - commit merge
+kafka 5797 - commit merge
+kafka 5799 - commit merge
+kafka 5805 - commit merge
+
+kafka 5827 - commit merge
+kafka 5833 - commit merge
+kafka 5841 - commit merge
+kafka 5843 - commit merge
+kafka 5849 - commit merge
+
+kafka 5850 - commit merge
+kafka 5856 - commit merge
+kafka 5869 - commit merge
+kafka 5874 - commit merge
+kafka 5887 - commit merge
+
+kafka 5929 - commit merge
+kafka 5944 - commit merge
+kafka 5946 - commit merge
+kafka 5953 - commit merge
+kafka 5974 - commit merge
+
+kafka 5986 - commit merge
+kafka 5998 - commit merge
+kafka 5999 - commit merge
+kafka 6000 - commit merge
+kafka 6008 - commit merge
+
+kafka 6015 - commit merge
+kafka 6016 - commit merge
+kafka 6029 - commit merge
+kafka 6036 - commit merge
+kafka 6049 - commit merge
+
+kafka 6051 - commit merge
+kafka 6053 - commit merge
+kafka 6056 - commit merge
+kafka 6059 - commit merge
+kafka 6068 - commit merge
+
+kafka 6073 - commit merge
+kafka 6081 - commit merge
+kafka 6099 - commit merge
+kafka 6101 - commit merge
+kafka 6103 - commit merge
+
+kafka 6112 - commit merge
+kafka 6127 - commit merge
+kafka 6146 - commit merge
+kafka 6150 - commit merge
+kafka 6153 - commit merge
+
+kafka 6168 - commit merge
+kafka 6172 - commit merge
+kafka 6185 - commit merge
+kafka 6187 - commit merge
+kafka 6195 - commit merge
+
+kafka 6203 - commit merge
+kafka 6204 - commit merge
+kafka 6209 - commit merge
+kafka 6220 - commit merge
+kafka 6224 - commit merge
+
+kafka 6226 - commit merge
+kafka 6233 - commit merge
+kafka 6241 - commit merge
+kafka 6242 - commit merge
+kafka 6243 - commit merge
+
+kafka 6244 - commit merge
+kafka 6252 - commit merge
+kafka 6267 - commit merge
+kafka 6275 - commit merge
+kafka 6278 - commit merge
+
+kafka 6279 - commit merge
+kafka 6283 - commit merge
+kafka 6285 - commit merge
+kafka 6298 - commit merge
+kafka 6304 - commit merge
+
+kafka 6305 - commit merge
+kafka 6313 - commit merge
+kafka 6315 - commit merge
+kafka 6318 - commit merge
+kafka 6325 - commit merge
+
+kafka 6328 - commit merge
+kafka 6333 - commit merge
+kafka 6346 - commit merge
+kafka 6351 - commit merge
+kafka 6353 - commit merge
+
+kafka 6359 - commit merge
+kafka 6365 - commit merge
+kafka 6368 - commit merge
+kafka 6369 - commit merge
+kafka 6377 - commit merge
+
+kafka 6382 - commit merge
+kafka 6383 - commit merge
+kafka 6384 - commit merge
+kafka 6385 - commit merge
+kafka 6391 - commit merge
+
+kafka 6401 - commit merge
+kafka 6427 - commit merge
+kafka 6430 - commit merge
+kafka 6433 - commit merge
+kafka 6438 - commit merge
+
+kafka 6444 - commit merge
+kafka 6445 - commit merge
+kafka 6447 - commit merge
+kafka 6459 - commit merge
+kafka 6461 - commit merge
+
+kafka 6463 - commit merge
+kafka 6468 - commit merge
+kafka 6481 - commit merge
+kafka 6509 - commit merge
+kafka 6540 - commit merge
+
+kafka 6546 - commit merge
+kafka 6557 - commit merge
+kafka 6562 - commit merge
+kafka 6565 - commit merge
+kafka 6586 - commit merge
+
+kafka 6590 - commit merge
+kafka 6595 - commit merge
+kafka 6601 - commit merge
+kafka 6603 - commit merge
+kafka 6621 - commit merge
+
+kafka 6622 - commit merge
+kafka 6625 - commit merge
+kafka 6639 - commit merge
+kafka 6648 - commit merge
+kafka 6652 - commit merge
+
+kafka 6657 - commit merge
+kafka 6661 - commit merge
+kafka 6665 - commit merge
+kafka 6692 - commit merge
+kafka 6712 - commit merge
+
+kafka 6724 - commit merge
+kafka 6725 - commit merge
+kafka 6758 - commit merge
+kafka 6781 - commit merge
+kafka 6788 - commit merge
+
+kafka 6793 - commit merge
+kafka 6801 - commit merge
+kafka 6803 - commit merge
+kafka 6808 - commit merge
+kafka 6818 - commit merge
+
+kafka 6830 - commit merge
+kafka 6835 - commit merge
+kafka 6847 - commit merge
+kafka 6848 - commit merge
+kafka 6853 - commit merge
+
+kafka 6871 - commit merge
+kafka 6886 - commit merge
+kafka 6898 - commit merge
+kafka 6909 - commit merge
+kafka 6930 - commit merge
+
+kafka 6938 - commit merge
+kafka 6940 - commit merge
+kafka 6968 - commit merge
+kafka 6969 - commit merge
+kafka 6974 - commit merge
+
+kafka 6981 - commit merge
+kafka 7009 - commit merge
+kafka 7018 - commit merge
+kafka 7022 - commit merge
+kafka 7030 - commit merge
+
+kafka 7047 - commit merge
+kafka 7050 - commit merge
+kafka 7054 - commit merge
+kafka 7055 - commit merge
+kafka 7079 - commit merge
+
+kafka 7085 - commit merge
+kafka 7094 - commit merge
+kafka 7099 - commit merge
+kafka 7102 - commit merge
+kafka 7103 - commit merge
+
+kafka 7106 - commit merge
+kafka 7108 - commit merge
+kafka 7113 - commit merge
+kafka 7116 - commit merge
+kafka 7124 - commit merge
+
+kafka 7132 - commit merge
+kafka 7159 - commit merge
+kafka 7162 - commit merge
+kafka 7176 - commit merge
+kafka 7186 - commit merge
+
+kafka 7189 - commit merge
+kafka 7193 - commit merge
+kafka 7196 - commit merge
+kafka 7201 - commit merge
+kafka 7207 - commit merge
+
+kafka 7232 - commit merge
+kafka 7257 - commit merge
+kafka 7280 - commit merge
+knox 48 - commit merge
+knox 57 - commit merge
+
+knox 61 - commit merge
+knox 62 - commit merge
+knox 63 - commit merge
+knox 68 - commit merge
+knox 69 - commit merge
+
+knox 72 - commit merge
+knox 74 - commit merge
+knox 79 - commit merge
+knox 82 - commit merge
+knox 90 - commit merge
+
+knox 94 - commit merge
+knox 128 - commit merge
+knox 136 - commit merge
+logging-log4j2 48 - commit merge
+logging-log4j2 213 - commit merge
+
+logging-log4j2 260 - commit merge
+logging-log4j2 275 - commit merge
+logging-log4j2 284 - commit merge
+lucene-solr 502 - squash and merge
+maven 251 - commit merge
+
+maven 269 - commit merge
+maven-scm 16 - commit merge
+maven-scm 45 - commit merge
+mnemonic 32 - commit merge
+openwebbeans-meecrowave-examples 1: commit merge 
+
+parquet-format 88 - commit merge
+parquet-format 98 - commit merge
+parquet-format 109 - commit merge
+parquet-format 110 - commit merge
+parquet-format 114 - commit merge
+
+parquet-format 126 - commit merge
+parquet-format 128 - commit merge
+parquet-format 132 - commit merge
+parquet-format 138 - commit merge
+parquet-format 140 - commit merge
+
+plc4x 9 - commit merge
+plc4x 57 - commit merge
+plc4x 75 - commit merge
+rocketmq-externals 32 - commit merge
+rocketmq-externals 45 - commit merge
+
+rocketmq-externals 131 - commit merge
+rocketmq-externals 202 - commit merge
+rocketmq-externals 229 - commit merge
+rocketmq-externals 296 - commit merge
+rocketmq-ons 2 - commit merge
+
+rocketmq-ons 8 - commit merge
+samza 899 - commit merge
+samza 920 - commit merge
+samza 939 - commit merge
+samza 944 - commit merge
+
+samza 948 - commit merge
+samza 950 - commit merge
+samza 956 - commit merge
+samza 961 - commit merge
+samza 966 - commit merge
+
+samza 974 - commit merge
+samza 987 - commit merge
+samza 993 - commit merge
+samza 1006 - commit merge
+samza 1015 - commit merge
+
+samza 1017 - commit merge
+samza 1026 - commit merge
+samza 1030 - commit merge
+samza 1042 - commit merge
+samza 1051 - commit merge
+
+samza 1053 - commit merge
+samza 1063 - commit merge
+samza 1085 - commit merge
+samza 1087 - commit merge
+samza 1091 - commit merge
+
+samza 1092 - commit merge
+samza 1095 - commit merge
+samza 1121 - commit merge
+samza 1124 - commit merge
+samza 1227 - commit merge
+
+samza 1133 - commit merge
+samza 1138 - commit merge
+samza 1142 - commit merge
+samza 1144 - commit merge
+samza 1145 - commit merge
+
+samza-hello-samza 52 - commit merge
+servicecomb-java-chassis 46 - commit merge
+servicecomb-java-chassis 50 - commit merge
+servicecomb-java-chassis 54 - commit merge
+servicecomb-java-chassis 57 - commit merge
+
+servicecomb-java-chassis 59 - commit merge
+servicecomb-java-chassis 90 - commit merge
+servicecomb-java-chassis 103 - commit merge
+servicecomb-java-chassis 106 - commit merge
+servicecomb-java-chassis 113 - commit merge
+
+servicecomb-java-chassis 128 - commit merge
+servicecomb-java-chassis 163 - commit merge
+servicecomb-java-chassis 168 - commit merge
+servicecomb-java-chassis 169 - commit merge
+servicecomb-java-chassis 172 - commit merge
+
+servicecomb-java-chassis 181 - commit merge
+servicecomb-java-chassis 192 - commit merge
+servicecomb-java-chassis 193 - commit merge
+servicecomb-java-chassis 194 - commit merge
+servicecomb-java-chassis 196 - commit merge
+
+servicecomb-java-chassis 205 - commit merge
+servicecomb-java-chassis 239 - commit merge
+servicecomb-java-chassis 246 - commit merge
+servicecomb-java-chassis 250 - commit merge
+servicecomb-java-chassis 264 - commit merge
+
+servicecomb-java-chassis 271 - commit merge
+servicecomb-java-chassis 276 - commit merge
+servicecomb-java-chassis 337 - commit merge
+servicecomb-java-chassis 346 - commit merge
+servicecomb-java-chassis 352 - commit merge
+
+servicecomb-java-chassis 356 - commit merge
+servicecomb-java-chassis 357 - commit merge
+servicecomb-java-chassis 361 - commit merge
+servicecomb-java-chassis 394 - commit merge
+servicecomb-java-chassis 405 - commit merge
+
+servicecomb-java-chassis 418 - commit merge
+servicecomb-java-chassis 421 - commit merge
+servicecomb-java-chassis 438 - commit merge
+servicecomb-java-chassis 454 - commit merge
+servicecomb-java-chassis 460 - commit merge
+
+servicecomb-java-chassis 466 - commit merge
+servicecomb-java-chassis 478 - commit merge
+servicecomb-java-chassis 486 - commit merge
+servicecomb-java-chassis 492 - commit merge
+servicecomb-java-chassis 499 - commit merge
+
+servicecomb-java-chassis 501 - commit merge
+servicecomb-java-chassis 529 - commit merge
+servicecomb-java-chassis 538 - commit merge
+servicecomb-java-chassis 542 - commit merge
+servicecomb-java-chassis 546 - commit merge
+
+servicecomb-java-chassis 549 - commit merge
+servicecomb-java-chassis 552 - commit merge
+servicecomb-java-chassis 578 - commit merge
+servicecomb-java-chassis 588 - commit merge
+servicecomb-java-chassis 591 - commit merge
+
+servicecomb-java-chassis 613 - commit merge
+servicecomb-java-chassis 615 - commit merge
+servicecomb-java-chassis 650 - commit merge
+servicecomb-java-chassis 651 - commit merge
+servicecomb-java-chassis 678 - commit merge
+
+servicecomb-java-chassis 681 - commit merge
+servicecomb-java-chassis 682 - commit merge
+servicecomb-java-chassis 691 - commit merge
+servicecomb-java-chassis 692 - commit merge
+servicecomb-java-chassis 698 - commit merge
+
+servicecomb-java-chassis 704 - commit merge
+servicecomb-java-chassis 709 - commit merge
+servicecomb-java-chassis 712 - commit merge
+servicecomb-java-chassis 727 - commit merge
+servicecomb-java-chassis 729 - commit merge
+
+servicecomb-java-chassis 735 - commit merge
+servicecomb-java-chassis 743 - commit merge
+servicecomb-java-chassis 744 - commit merge
+servicecomb-java-chassis 755 - commit merge
+servicecomb-java-chassis 759 - commit merge
+
+servicecomb-java-chassis 770 - commit merge
+servicecomb-java-chassis 773 - commit merge
+servicecomb-java-chassis 774 - commit merge
+servicecomb-java-chassis 778 - commit merge
+servicecomb-java-chassis 781 - commit merge
+
+servicecomb-java-chassis 787 - commit merge
+servicecomb-java-chassis 789 - commit merge
+servicecomb-java-chassis 801 - commit merge
+servicecomb-java-chassis 803 - commit merge
+servicecomb-java-chassis 826 - commit merge
+
+servicecomb-java-chassis 837 - commit merge
+servicecomb-java-chassis 856 - commit merge
+servicecomb-java-chassis 863 - commit merge
+servicecomb-java-chassis 869 - commit merge
+servicecomb-java-chassis 871 - commit merge
+
+servicecomb-java-chassis 872 - commit merge
+servicecomb-java-chassis 874 - commit merge
+servicecomb-java-chassis 882 - commit merge
+servicecomb-java-chassis 883 - commit merge
+servicecomb-java-chassis 886 - commit merge
+
+servicecomb-java-chassis 891 - commit merge
+servicecomb-java-chassis 907 - commit merge
+servicecomb-java-chassis 925 - commit merge
+servicecomb-java-chassis 937 - commit merge
+servicecomb-java-chassis 944 - commit merge
+
+servicecomb-java-chassis 949 - commit merge
+servicecomb-java-chassis 969 - commit merge
+servicecomb-java-chassis 980 - commit merge
+servicecomb-java-chassis 981 - commit merge
+servicecomb-java-chassis 1007 - commit merge
+
+servicecomb-java-chassis 1017 - commit merge
+servicecomb-java-chassis 1037 - commit merge
+servicecomb-java-chassis 1051 - commit merge
+servicecomb-java-chassis 1119 - commit merge
+servicecomb-java-chassis 1164 - commit merge
+
+servicecomb-java-chassis 1171 - commit merge
+servicemix-bundles 139 - commit merge
+sling-org-apache-sling-distribution-core 20 - commit merge
+sling-org-apache-sling-feature-analyser 16 - commit merge
+sling-org-apache-sling-jcr-repoinit 3 - commit merge
+
+sling-org-apache-sling-jcr-resource 3 - commit merge
+sling-org-apache-sling-jcr-resource 4 - commit merge
+sling-org-apache-sling-models-impl 1 - commit merge
+sling-org-apache-sling-models-impl 3 - commit merge
+sling-org-apache-sling-models-impl 13 - commit merge
+
+sling-org-apache-sling-servlet-helpers 6 - commit merge
+apache/sling-slingfeature-maven-plugin 16- commit merge
+apache/sling-slingfeature-maven-plugin 17 - commit merge
+apache/sling-slingfeature-maven-plugin 19 - commit merge
+apache/sling-slingfeature-maven-plugin 22 - commit merge
+
+apache/sling-slingfeature-maven-plugin 26 - commit merge
+struts 7 - commit merge
+struts 20 - commit merge
+struts 32 - commit merge
+struts 43 - commit merge
+
+struts 56 - commit merge
+struts 61 - commit merge
+struts 62 - commit merge
+struts 72 - commit merge
+struts 75 - commit merge
+
+struts 85 - commit merge
+struts 86 - commit merge
+struts 99 - commit merge
+struts 124 - commit merge
+struts 135 - commit merge
+
+struts 151 - commit merge
+struts 173 - commit merge
+struts 175 - commit merge
+struts 177 - commit merge
+struts 190 - commit merge
+
+struts 191 - commit merge
+struts 196 - commit merge
+struts 199 - commit merge
+struts 200 - commit merge
+struts 201 - commit merge
+
+struts 205 - commit merge
+struts 210 - commit merge
+struts 214 - commit merge
+struts 227 - commit merge
+struts 260 - commit merge
+
+struts 286 - commit merge
+struts 287 - commit merge
+struts 295 - commit merge
+struts 298 - commit merge
+struts 323 - commit merge
+
+struts 342 - commit merge
+struts 358 - commit merge
+struts-extras 3 - commit merge
+tika 175 - commit merge
+tika 208 - commit merge
+
+tika 234 - commit merge
+tika 238 - commit merge
+tika 242 - commit merge
+tika 243 - commit merge
+tika 257 - commit merge
+
+tika 277 - commit merge
+tinkerpop 109 - commit merge
+tinkerpop 110 - commit merge
+tinkerpop 122 - commit merge
+tinkerpop 147 - commit merge
+
+tinkerpop 159 - commit merge
+tinkerpop 177 - commit merge
+tinkerpop 181 - commit merge
+tinkerpop 237 - commit merge
+tinkerpop 282 - commit merge
+
+tinkerpop 284 - commit merge
+tinkerpop 297 - commit merge
+tinkerpop 298 - commit merge
+tinkerpop 335 - commit merge
+tinkerpop 336 - commit merge
+
+tinkerpop 342 - commit merge
+tinkerpop 415 - commit merge
+tinkerpop 418 - commit merge
+tinkerpop 426 - commit merge
+tinkerpop 447 - commit merge
+
+tinkerpop 474 - commit merge
+tinkerpop 475 - commit merge
+tinkerpop 476 - commit merge
+tinkerpop 481 - commit merge
+tinkerpop 521 - commit merge
+
+tinkerpop 524 - commit merge
+tinkerpop 529 - commit merge
+tinkerpop 531 - commit merge
+tinkerpop 546 - commit merge
+tinkerpop 548 - commit merge
+
+tinkerpop 557 - commit merge
+tinkerpop 570 - commit merge
+tinkerpop 574 - commit merge
+tinkerpop 596 - commit merge
+tinkerpop 629 - commit merge
+
+tinkerpop 647 - commit merge
+tinkerpop 657 - commit merge
+tinkerpop 669 - commit merge
+tinkerpop 678 - commit merge
+tinkerpop 690 - commit merge
+
+tinkerpop 701 - commit merge
+tinkerpop 704 - commit merge
+tinkerpop 711 - commit merge
+tinkerpop 717 - commit merge
+tinkerpop 720 - commit merge
+
+tinkerpop 729 - commit merge
+tinkerpop 741 - commit merge
+tinkerpop 753 - commit merge
+tinkerpop 776 - commit merge
+tinkerpop 800 - commit merge
+
+tinkerpop 805 - commit merge
+tinkerpop 815 - commit merge
+tinkerpop 893 - commit merge
+tinkerpop 899 - commit merge
+tinkerpop 947 - commit merge
+
+tinkerpop 1011 - commit merge
+tinkerpop 1019 - commit merge
+tinkerpop 1055 - commit merge
+tinkerpop 1065 - commit merge
+tinkerpop 1080 - commit merge
+
+tinkerpop 1110 - commit merge
+tinkerpop 1112 - commit merge
+tomee 80 - commit merge
+tomee 88 - commit merge
+tomee 89 - commit merge
+
+tomee 231 - commit merge
+tomee 275 - commit merge
+tomee 283 - commit merge
+tomee 399 - commit merge
+tomee 407 - commit merge
+
+tomee 431 - commit merge
+tomee 435 - commit merge
+tomee 445 - commit merge
+tomee 451 - commit merge
+tomee 465 - commit merge
+
+tomee 469 - commit merge
+tomee 478 - commit merge
+tomee 486 - commit merge
+tomee 491 - commit merge
+tomee 492 - commit merge
+
+tomee 493 - commit merge
+tomee 495 - commit merge
+tomee 496 - commit merge
+tomee 499 - commit merge
+tomee 502 - commit merge
+
+tomee 505 - commit merge
+tomee 509 - commit merge
+tomee 512 - commit merge
+tomee 513 - commit merge
+tomee 517 - commit merge
+
+tomee 518 - commit merge
+usergrid 102 - commit merge
+usergrid 140 - commit merge
+usergrid 187 - commit merge
+usergrid 225 - commit merge
+
+usergrid 263 - commit merge
+usergrid 265 - commit merge
+usergrid 277 - commit merge
+usergrid 287 - commit merge
+usergrid 300 - commit merge
+
+usergrid 337 - commit merge
+usergrid 374 - commit merge
+usergrid 385 - commit merge
+usergrid 388 - commit merge
+usergrid 419 - commit merge
+
+usergrid 447 - commit merge
+usergrid 451 - commit merge
+usergrid 454 - commit merge
+usergrid 504 - commit merge
+usergrid 561 - commit merge
+
+usergrid 573 - commit merge
+usergrid 575 - commit merge
+vxquery 12 - commit merge
+vxquery 171 - commit merge
+
+_____________
+Discarded PRs
+avro 537: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+avro 546: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+beam 4080: the PR references two commits that were not present in our refactorings dataset
+beam 4214: commit merge (an internal commit merge was not previously detected by our script)
+beam 4252: commit merge (an internal commit merge was not previously detected by our script)
+beam 4340: commit merge (an internal commit merge was not previously detected by our script)
+beam 6912: two commits present a self-affirmation regarding squashing
+beam 8071: commit merge (an internal commit merge was not previously detected by our script)
+beam 8302: commit merge (an internal commit merge was not previously detected by our script)
+beam 9197: PR references two commits that were not present in our refactorings dataset
+beam 9275: PR presents inconsistent list of commits 
+brooklyn-docs 130: the PR references two commits that were not present in our refactorings dataset
+brooklyn-server 221: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+brooklyn-server 388: squash and merge (there is a possibility of rebase before squash due a commit merge detected in the manual checking)
+brooklyn-server 521: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+brooklyn-server 737: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+brooklyn-server 781: squash and merge (there is a possibility of rebase before squash due a commit merge detected in the manual checking)
+brooklyn-server 842: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+brooklyn-server 1010: commit merge (PR references a commit that was not present in our refactorings dataset)
+brooklyn-server 1046: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+calcite-avatica 88: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+cloudstack 713: squash and merge (PR presents a commit merge, when following the squashed commits)
+cloudstack 1071: PR's title indicates a merge operation
+cloudstack 1084: commit merge (PR references a commit that was not present in our refactorings dataset)
+cloudstack 1424: squash and merge (one force push event was not previously detected, before squashing)
+cloudstack 1624: squash and merge (Rebasing was mentioned in PR's conversation)
+cloudstack 1866: commit merge (PR references a commit that was not present in our refactorings dataset)
+cloudstack 1908: commit merge (PR references commits that were not present in our refactorings dataset)
+cloudstack 1917: squash and merge (there is a possibility of rebase, since there is only one commit and none force-push event)
+cloudstack 1985: squash and merge (there is a possibility of rebase, since there is only one commit and none force-push event)
+cloudstack 2048: commit merge (Rebasing was mentioned in PR's conversation. Also, PR references a commit that was not present in our refactorings dataset. It is a case where rebase occurred, but none force-push event occurred)
+cloudstack 2086: squash and merge (there is a possibility of rebase, since there is only one commit and none force-push event)
+cloudstack 2089: commit merge (PR references a commit that was not present in our refactorings dataset. It is a case where rebase occurred, but none force-push event occurred)
+cloudstack 2242: commit merge (PR references a commit that was not present in our refactorings dataset. It is a case where rebase occurred, but none force-push event occurred)
+cloudstack 2870: commit merge (there is a possibility of rebase due a force-push event)
+dubbo 1568: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 1827: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 2213: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 2260: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 2591: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 2646: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3013: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3108: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3295: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3341: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3362: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3363: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3490: commit merge (a commit's message indicates a rebase operation, none force-push event)
+dubbo 3624: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 3966: commit merge (a commit's message indicates merge, but such a commit has only one parent, none force-push event)
+dubbo 4014: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 4015: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 4180: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo 4974: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo-admin 87: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo-admin 117: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+dubbo-admin 371: commit merge (Rebase was mentioned in a commit's message)
+flink 8902: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+flink 9029: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+fluo 738: commit merge (rebase may be occurred because the PR references a commit that was not present in our refactorings dataset, none force-push event)
+fluo 899: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+fluo 960: commit merge (Rebasing was mentioned in PR's conversation. Also, PR references a commit that was not present in our refactorings dataset. It is a case where rebase occurred, but none force-push event occurred)
+fluo 988: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+fluo 1050: commit merge (our refactorings dataset does not contain all PR commits, none force-push event)
+geode 1962: squash and merge (Rebase may be occurred, since PR presents an inconsistent list of commits)
+gora 112: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+gora 156: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 527: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 700: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 767: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 812: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 1055: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hadoop 1363: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+hbase 387: squash and merge (PR presents inconsistent list of commits, only one commit, but none force-push event)
+httpcomponents-client 137: commit merge (Rebase may be occurred, since PR references commits that was not present in our refactorings dataset, none force-push event)
+incubator-brooklyn 124: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 133: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 176: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 255: commit merge (Rebase may be occurred, since the PR presents a force-push event no previously detected by our script)
+incubator-brooklyn 292: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 312: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 370: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 502: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 520: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 542: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 556: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 571: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 611: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-brooklyn 783: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-datasketches-memory 49: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+incubator-edgent 25: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-edgent 123: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-iceberg 52: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+incubator-incubator 139: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-iceberg 152: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+incubator-iotdb 38: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+incubator-iotdb 83: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+incubator-iotdb 132: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+incubator-iotdb 164: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+incubator-iotdb 265: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+incubator-sdap-mudrod 18: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+incubator-taverna-mobile 40: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 4527: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+kafka 4486: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 4563: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 4836: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 4854: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 4859: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 4903: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 4993: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5123: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5195: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5298: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5338: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5346: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5354: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5388: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 5421: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5488: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5698: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5922: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 5923: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 6080: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 6085: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 6108: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 6373: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 6717: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 6771: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 6840: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+kafka 7090: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+kafka 7104: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+lucern-solr 41: squash and merge (Rebase may be occurred, since the first commit is different)
+lucern-solr 480: squash and merge (Rebase may be occurred, since the first commit is different)
+lucern-solr 515: squash and merge (Rebase may be occurred, since the first commit is different)
+lucern-solr 516: squash and merge (Rebase may be occurred, since the first commit is different)
+lucern-solr 526: squash and merge (Rebase may be occurred, since the first commit is different)
+maven 225: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+maven-jxr 10: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+myfaces-tobago 2: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+openmeetings 12: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+plc4x 66: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+rocketmq 1345: squash and merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 89: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 139: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 187: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 299: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 343: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+rocketmq-externals 381: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+samza 955: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+samza 1090: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+samza-hello-samza 64: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 22: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 110: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 291: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 479: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 637: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 713: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+servicecomb-java-chassis 861: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 947: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 987: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1012: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1013: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1016: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1047: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1075: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1083: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+servicecomb-java-chassis 1229: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+struts 105: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+tika 108: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tika 123: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tika 125: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tika 126: commit merge (a commit message indicates a rebase operation)
+tika 187: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tika 189: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tika 196: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 106: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 107: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 129: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 210: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 300: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 305: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 328: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+tinkerpop 749: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 919: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+tinkerpop 931: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 952: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tinkerpop 1168: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tomee 79: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tomee 175: commit merge (Rebase may be occurred, since our refactorings dataset does not contain all PR commits, none force-push event)
+tomee 218: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tomee 262: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tomee 474: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+tomee 488: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 248: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 250: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 269: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 270: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 323: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+usergrid 386: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 434: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 518: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+usergrid 544: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event)
+vxquery 5: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+vxquery 49: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+vxquery 50: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 
+vxquery 128: commit merge (an internal commit merge was not previously detected by our script, PR presents a commit merge, but none force-push event) 

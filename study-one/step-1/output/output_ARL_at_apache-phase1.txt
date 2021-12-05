@@ -1,0 +1,1596 @@
+Discarding association rules containing the same itemset in line with conviction
+____________________________________________________
+
+These are the columns of the one-hot encoded for RIPRs:
+ ['n_sub_commits_1_to_2', 'n_sub_commits_2_to_3', 'n_sub_commits_3_to_4', 'n_sub_commits_4_to_25', 
+  'n_sub_file_changes_1_to_3', 'n_sub_file_changes_3_to_5', 'n_sub_file_changes_5_to_10', 'n_sub_file_changes_10_to_1774',
+  'n_sub_additions_1_to_17', 'n_sub_additions_17_to_50', 'n_sub_additions_50_to_131', 'n_sub_additions_131_to_50416',
+  'n_sub_deletions_1_to_12', 'n_sub_deletions_12_to_30', 'n_sub_deletions_30_to_83', 'n_sub_deletions_83_to_5436', 
+  'n_reviewers_1_to_2', 'n_reviewers_2_to_2', 'n_reviewers_2_to_3', 'n_reviewers_3_to_6', 
+  'n_review_comments_1_to_3', 'n_review_comments_3_to_6', 'n_review_comments_6_to_12', 'n_review_comments_12_to_82', 
+  'time_to_merge_0_to_1', 'time_to_merge_1_to_4', 'time_to_merge_4_to_11', 'time_to_merge_11_to_906', 
+  'n_refactorings_0', 'n_refactorings_1_to_1', 'n_refactorings_1_to_2', 'n_refactorings_2_to_5', 'n_refactorings_5_to_63',
+  'length_discussion_1_to_6', 'length_discussion_6_to_11', 'length_discussion_11_to_19', 'length_discussion_19_to_90']
+
+____________________________________________________
+
+FP-Growth results - RIPRs
+
+Running for the minimal support =  0.1
+
+FP-Growth found 180 associations
+
+ ['n_reviewers_3_to_6'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.17371937639198218 
+ confidence: 0.5098039215686274 
+ lift: 1.4306372549019606 
+ conviction: 1.3130512249443207 
+
+
+ ['n_review_comments_12_to_82'] -> ['n_reviewers_3_to_6'] 
+ support: 0.1759465478841871 
+ confidence: 0.6638655462184874 
+ lift: 1.9482067336738615 
+ conviction: 1.9612472160356347 
+
+
+ ['n_review_comments_12_to_82'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.14253897550111358 
+ confidence: 0.5378151260504201 
+ lift: 1.5092436974789916 
+ conviction: 1.3926300870621582 
+
+
+ ['n_review_comments_12_to_82', 'n_sub_commits_4_to_25'] -> ['n_reviewers_3_to_6'] 
+ support: 0.111358574610245 
+ confidence: 0.7812500000000001 
+ lift: 2.2926879084967324 
+ conviction: 3.0136811963092605 
+
+
+ ['length_discussion_19_to_90'] -> ['n_review_comments_12_to_82'] 
+ support: 0.18262806236080179 
+ confidence: 0.7008547008547009 
+ lift: 2.644401350283703 
+ conviction: 2.4568883232580343 
+
+
+ ['length_discussion_19_to_90'] -> ['n_reviewers_3_to_6'] 
+ support: 0.16481069042316257 
+ confidence: 0.6324786324786325 
+ lift: 1.8560974247248756 
+ conviction: 1.7937535608846533 
+
+
+ ['length_discussion_19_to_90'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.16926503340757237 
+ confidence: 0.6495726495726496 
+ lift: 1.822863247863248 
+ conviction: 1.8367646259981532 
+
+
+ ['length_discussion_19_to_90'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.14253897550111358 
+ confidence: 0.5470085470085471 
+ lift: 1.9492606159272827 
+ conviction: 1.5880573181493467 
+
+
+ ['length_discussion_19_to_90', 'n_reviewers_3_to_6'] -> ['n_review_comments_12_to_82'] 
+ support: 0.1358574610244989 
+ confidence: 0.8243243243243245 
+ lift: 3.110265727912787 
+ conviction: 4.1836559876649 
+
+
+ ['n_reviewers_3_to_6', 'n_sub_commits_4_to_25'] -> ['length_discussion_19_to_90'] 
+ support: 0.10467706013363029 
+ confidence: 0.6025641025641025 
+ lift: 2.312404120096428 
+ conviction: 1.8604784826496155 
+
+
+ ['n_review_comments_12_to_82', 'n_sub_commits_4_to_25'] -> ['length_discussion_19_to_90'] 
+ support: 0.11581291759465479 
+ confidence: 0.8125 
+ lift: 3.118055555555556 
+ conviction: 3.943578322197476 
+
+
+ ['length_discussion_19_to_90', 'n_sub_file_changes_10_to_1774'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.11358574610244988 
+ confidence: 0.796875 
+ lift: 2.23623046875 
+ conviction: 3.1687510707555253 
+
+
+ ['n_sub_file_changes_10_to_1774', 'n_review_comments_12_to_82'] -> ['length_discussion_19_to_90'] 
+ support: 0.11581291759465479 
+ confidence: 0.8813559322033898 
+ lift: 3.3822975517890774 
+ conviction: 6.232262169901367 
+
+
+ ['n_sub_additions_131_to_50416'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.18040089086859687 
+ confidence: 0.7105263157894737 
+ lift: 2.531954887218045 
+ conviction: 2.485118445029358 
+
+
+ ['n_sub_additions_131_to_50416'] -> ['n_refactorings_5_to_63'] 
+ support: 0.16258351893095768 
+ confidence: 0.6403508771929824 
+ lift: 2.31868986983588 
+ conviction: 2.012602531370525 
+
+
+ ['n_sub_additions_131_to_50416'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.16258351893095768 
+ confidence: 0.6403508771929824 
+ lift: 1.796984649122807 
+ conviction: 1.7896680971264056 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_additions_131_to_50416'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.133630289532294 
+ confidence: 0.8219178082191781 
+ lift: 2.928897586431833 
+ conviction: 4.0395751242076425 
+
+
+ ['n_sub_additions_131_to_50416', 'n_sub_commits_4_to_25'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.13808463251670378 
+ confidence: 0.8493150684931506 
+ lift: 3.0265275059795607 
+ conviction: 4.774043328609029 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_commits_4_to_25'] -> ['n_sub_additions_131_to_50416'] 
+ support: 0.111358574610245 
+ confidence: 0.7246376811594204 
+ lift: 2.8540554284261384 
+ conviction: 2.709529949595594 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_additions_131_to_50416', 'n_sub_commits_4_to_25'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.10690423162583519 
+ confidence: 0.96 
+ lift: 3.4209523809523805 
+ conviction: 17.984409799554548 
+
+
+ ['n_sub_deletions_83_to_5436'] -> ['n_sub_additions_131_to_50416'] 
+ support: 0.19821826280623608 
+ confidence: 0.7876106194690264 
+ lift: 3.1020804222946743 
+ conviction: 3.512899034892352 
+
+
+ ['n_sub_deletions_83_to_5436'] -> ['length_discussion_19_to_90'] 
+ support: 0.13140311804008908 
+ confidence: 0.5221238938053097 
+ lift: 2.0037062249451627 
+ conviction: 1.5473067722510927 
+
+
+ ['n_sub_deletions_83_to_5436'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.18262806236080179 
+ confidence: 0.7256637168141592 
+ lift: 2.5858968956314086 
+ conviction: 2.6222429772253744 
+
+
+ ['n_sub_deletions_83_to_5436'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.16481069042316257 
+ confidence: 0.654867256637168 
+ lift: 1.8377212389380528 
+ conviction: 1.8649420364342408 
+
+
+ ['n_sub_deletions_83_to_5436'] -> ['n_refactorings_5_to_63'] 
+ support: 0.16258351893095768 
+ confidence: 0.6460176991150441 
+ lift: 2.3392092492149583 
+ conviction: 2.0448218262806233 
+
+
+ ['n_sub_additions_131_to_50416', 'length_discussion_19_to_90'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.10022271714922049 
+ confidence: 0.8823529411764706 
+ lift: 3.505986465382613 
+ conviction: 6.360801781737193 
+
+
+ ['length_discussion_19_to_90', 'n_sub_deletions_83_to_5436'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.10467706013363029 
+ confidence: 0.7966101694915254 
+ lift: 2.838714016680118 
+ conviction: 3.536933927245731 
+
+
+ ['n_sub_deletions_83_to_5436', 'n_review_comments_12_to_82'] -> ['length_discussion_19_to_90'] 
+ support: 0.10467706013363029 
+ confidence: 0.8545454545454545 
+ lift: 3.2794094794094795 
+ conviction: 5.083518930957681 
+
+
+ ['n_sub_additions_131_to_50416', 'n_sub_file_changes_10_to_1774'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.15367483296213807 
+ confidence: 0.8518518518518519 
+ lift: 3.384791871517535 
+ conviction: 5.051224944320714 
+
+
+ ['n_sub_deletions_83_to_5436', 'n_sub_commits_4_to_25'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.1403118040089087 
+ confidence: 0.8513513513513514 
+ lift: 3.0337837837837838 
+ conviction: 4.8394411824255945 
+
+
+ ['n_sub_additions_131_to_50416', 'n_sub_commits_4_to_25'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.13808463251670378 
+ confidence: 0.8493150684931506 
+ lift: 3.374712086313492 
+ conviction: 4.966187487345615 
+
+
+ ['n_sub_additions_131_to_50416', 'n_sub_file_changes_10_to_1774', 'n_sub_commits_4_to_25'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.12249443207126949 
+ confidence: 0.8870967741935485 
+ lift: 3.5248358549814447 
+ conviction: 6.6280623608017875 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_additions_131_to_50416'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.13808463251670378 
+ confidence: 0.8493150684931506 
+ lift: 3.374712086313492 
+ conviction: 4.966187487345615 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_deletions_83_to_5436'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.13140311804008908 
+ confidence: 0.8082191780821918 
+ lift: 2.880082626657969 
+ conviction: 3.7510340439070955 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_commits_4_to_25'] -> ['n_sub_deletions_83_to_5436'] 
+ support: 0.1091314031180401 
+ confidence: 0.7101449275362319 
+ lift: 2.8217263049890984 
+ conviction: 2.5817371937639204 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_deletions_83_to_5436', 'n_sub_file_changes_10_to_1774'] -> ['n_sub_additions_131_to_50416'] 
+ support: 0.12026726057906459 
+ confidence: 0.9152542372881356 
+ lift: 3.6048171275646745 
+ conviction: 8.80400890868597 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_deletions_83_to_5436', 'n_sub_commits_4_to_25'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.10244988864142539 
+ confidence: 0.9387755102040816 
+ lift: 3.345319080012957 
+ conviction: 11.749814402375636 
+
+
+ ['n_sub_commits_1_to_2'] -> ['n_reviewers_2_to_3'] 
+ support: 0.1291759465478842 
+ confidence: 0.5321100917431193 
+ lift: 1.1377020532983837 
+ conviction: 1.1376479322241146 
+
+
+ ['n_sub_deletions_1_to_12'] -> ['n_reviewers_2_to_3'] 
+ support: 0.1358574610244989 
+ confidence: 0.5596330275229358 
+ lift: 1.1965487112276103 
+ conviction: 1.2087509279881217 
+
+
+ ['n_sub_deletions_1_to_12'] -> ['n_refactorings_1_to_2'] 
+ support: 0.1514476614699332 
+ confidence: 0.6238532110091743 
+ lift: 1.7079883642873126 
+ conviction: 1.6874898147645176 
+
+
+ ['n_sub_additions_1_to_17'] -> ['n_sub_deletions_1_to_12'] 
+ support: 0.16481069042316257 
+ confidence: 0.7184466019417475 
+ lift: 2.959472699741694 
+ conviction: 2.689501574379847 
+
+
+ ['n_sub_additions_1_to_17'] -> ['n_refactorings_1_to_2'] 
+ support: 0.14253897550111358 
+ confidence: 0.6213592233009708 
+ lift: 1.7011603125739994 
+ conviction: 1.6763748500942264 
+
+
+ ['n_sub_additions_1_to_17'] -> ['n_reviewers_2_to_3'] 
+ support: 0.11804008908685969 
+ confidence: 0.5145631067961165 
+ lift: 1.100184928340268 
+ conviction: 1.0965256124721603 
+
+
+ ['n_refactorings_1_to_2', 'n_sub_additions_1_to_17'] -> ['n_sub_deletions_1_to_12'] 
+ support: 0.111358574610245 
+ confidence: 0.7812500000000001 
+ lift: 3.218176605504588 
+ conviction: 3.4616608335984744 
+
+
+ ['n_sub_file_changes_1_to_3'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.14253897550111358 
+ confidence: 0.7441860465116278 
+ lift: 3.0655003200341366 
+ conviction: 2.9601133832759654 
+
+
+ ['n_sub_file_changes_1_to_3'] -> ['n_sub_additions_1_to_17'] 
+ support: 0.11581291759465479 
+ confidence: 0.6046511627906976 
+ lift: 2.635809437796342 
+ conviction: 1.9491680859426173 
+
+
+ ['n_sub_file_changes_1_to_3'] -> ['n_sub_deletions_1_to_12'] 
+ support: 0.11581291759465479 
+ confidence: 0.6046511627906976 
+ lift: 2.4907190100277363 
+ conviction: 1.9153674832962135 
+
+
+ ['n_sub_file_changes_1_to_3'] -> ['n_reviewers_2_to_3'] 
+ support: 0.11804008908685969 
+ confidence: 0.6162790697674418 
+ lift: 1.3176633444075303 
+ conviction: 1.3871903894175608 
+
+
+ ['n_sub_file_changes_1_to_3'] -> ['n_refactorings_1_to_2'] 
+ support: 0.11358574610244988 
+ confidence: 0.5930232558139534 
+ lift: 1.6235819625638115 
+ conviction: 1.5596563792554883 
+
+
+ ['length_discussion_11_to_19'] -> ['n_reviewers_2_to_3'] 
+ support: 0.1291759465478842 
+ confidence: 0.5 
+ lift: 1.069047619047619 
+ conviction: 1.064587973273942 
+
+
+ ['length_discussion_11_to_19'] -> ['n_review_comments_6_to_12'] 
+ support: 0.1291759465478842 
+ confidence: 0.5 
+ lift: 1.7403100775193798 
+ conviction: 1.4253897550111359 
+
+
+ ['n_sub_commits_2_to_3'] -> ['n_reviewers_2_to_3'] 
+ support: 0.1358574610244989 
+ confidence: 0.5398230088495575 
+ lift: 1.1541930046354825 
+ conviction: 1.1567157786534177 
+
+
+ ['n_sub_deletions_12_to_30'] -> ['n_refactorings_2_to_5'] 
+ support: 0.12472160356347439 
+ confidence: 0.5 
+ lift: 1.3944099378881987 
+ conviction: 1.2828507795100221 
+
+
+ ['n_sub_deletions_12_to_30'] -> ['n_sub_additions_17_to_50'] 
+ support: 0.13140311804008908 
+ confidence: 0.5267857142857143 
+ lift: 1.9876200480192077 
+ conviction: 1.5531369500357188 
+
+
+ ['n_sub_file_changes_10_to_1774'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.20489977728285078 
+ confidence: 0.7301587301587301 
+ lift: 2.0490079365079366 
+ conviction: 2.3853006681514475 
+
+
+ ['n_reviewers_3_to_6', 'n_sub_file_changes_10_to_1774'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.10690423162583519 
+ confidence: 0.7868852459016393 
+ lift: 2.2081967213114755 
+ conviction: 3.0202158643138595 
+
+
+ ['n_review_comments_3_to_6'] -> ['n_reviewers_2_to_3'] 
+ support: 0.1403118040089087 
+ confidence: 0.6237623762376238 
+ lift: 1.3336633663366335 
+ conviction: 1.4147813855351072 
+
+
+ ['length_discussion_1_to_6'] -> ['n_refactorings_1_to_2'] 
+ support: 0.10244988864142539 
+ confidence: 0.5 
+ lift: 1.3689024390243902 
+ conviction: 1.269487750556793 
+
+
+ ['length_discussion_1_to_6'] -> ['n_reviewers_2_to_3'] 
+ support: 0.111358574610245 
+ confidence: 0.5434782608695653 
+ lift: 1.1620082815734991 
+ conviction: 1.1659773040619368 
+
+
+ ['length_discussion_1_to_6'] -> ['n_review_comments_1_to_3'] 
+ support: 0.13808463251670378 
+ confidence: 0.6739130434782609 
+ lift: 3.0258695652173913 
+ conviction: 2.383667409057164 
+
+
+ ['n_reviewers_1_to_2'] -> ['n_review_comments_1_to_3'] 
+ support: 0.11804008908685969 
+ confidence: 0.6162790697674418 
+ lift: 2.7670930232558137 
+ conviction: 2.0256462171829654 
+
+
+ ['time_to_merge_0_to_1'] -> ['n_reviewers_2_to_3'] 
+ support: 0.10690423162583519 
+ confidence: 0.5783132530120483 
+ lift: 1.236488812392427 
+ conviction: 1.2622971683105315 
+
+
+ ['time_to_merge_1_to_4'] -> ['n_reviewers_2_to_3'] 
+ support: 0.15367483296213807 
+ confidence: 0.5073529411764706 
+ lift: 1.0847689075630251 
+ conviction: 1.080477346009374 
+
+
+ ['length_discussion_6_to_11'] -> ['n_reviewers_2_to_3'] 
+ support: 0.14699331848552338 
+ confidence: 0.5322580645161291 
+ lift: 1.1380184331797236 
+ conviction: 1.1380078334997314 
+
+
+ ['n_sub_additions_50_to_131'] -> ['n_sub_deletions_30_to_83'] 
+ support: 0.133630289532294 
+ confidence: 0.5309734513274337 
+ lift: 2.073105040400154 
+ conviction: 1.585998235071648 
+
+
+ ['n_review_comments_1_to_3'] -> ['n_refactorings_1_to_2'] 
+ support: 0.111358574610245 
+ confidence: 0.5 
+ lift: 1.3689024390243902 
+ conviction: 1.269487750556793 
+
+
+ ['n_refactorings_5_to_63'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.16481069042316257 
+ confidence: 0.5967741935483871 
+ lift: 2.126600102406554 
+ conviction: 1.784053452115813 
+
+
+ ['n_refactorings_5_to_63'] -> ['n_sub_commits_4_to_25'] 
+ support: 0.15367483296213807 
+ confidence: 0.5564516129032259 
+ lift: 1.5615423387096776 
+ conviction: 1.451143956266451 
+
+
+ ['n_refactorings_5_to_63', 'n_sub_commits_4_to_25'] -> ['n_sub_file_changes_10_to_1774'] 
+ support: 0.12694877505567928 
+ confidence: 0.8260869565217391 
+ lift: 2.9437543133195305 
+ conviction: 4.13641425389755 
+
+
+____________________________________________________
+
+These are the columns of the one-hot encoded for non-RIPRs:
+ ['n_sub_commits_1_to_1', 'n_sub_commits_1_to_2', 'n_sub_commits_2_to_19', 
+  'n_sub_file_changes_1_to_1', 'n_sub_file_changes_1_to_2', 'n_sub_file_changes_2_to_4', 'n_sub_file_changes_4_to_1687',
+  'n_sub_additions_0_to_2', 'n_sub_additions_2_to_8', 'n_sub_additions_8_to_28', 'n_sub_additions_28_to_17474', 
+  'n_sub_deletions_0_to_2', 'n_sub_deletions_2_to_6', 'n_sub_deletions_6_to_17', 'n_sub_deletions_17_to_7487', 
+  'n_reviewers_1_to_2', 'n_reviewers_2_to_2', 'n_reviewers_2_to_6', 
+  'n_review_comments_1_to_2', 'n_review_comments_2_to_3', 'n_review_comments_3_to_6', 'n_review_comments_6_to_195', 
+  'time_to_merge_0_to_0', 'time_to_merge_0_to_2', 'time_to_merge_2_to_7', 'time_to_merge_7_to_905', 
+  'length_discussion_1_to_4', 'length_discussion_4_to_7', 'length_discussion_7_to_12', 'length_discussion_12_to_209']
+
+____________________________________________________
+
+FP-Growth results - non-RIPRs
+
+Running for the minimal support =  0.1
+
+FP-Growth found 460 associations
+
+ ['n_sub_commits_2_to_19'] -> ['n_reviewers_2_to_6'] 
+ support: 0.3596638655462185 
+ confidence: 0.8045112781954887 
+ lift: 1.0485962990718856 
+ conviction: 1.1907239819004523 
+
+
+ ['time_to_merge_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.2672268907563025 
+ confidence: 0.6334661354581673 
+ lift: 1.1456302449775366 
+ conviction: 1.219693094629156 
+
+
+ ['n_reviewers_2_to_6', 'time_to_merge_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.19327731092436976 
+ confidence: 0.6336088154269972 
+ lift: 1.1458882832190374 
+ conviction: 1.2201680672268906 
+
+
+ ['n_sub_file_changes_2_to_4'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.20588235294117646 
+ confidence: 0.6265984654731458 
+ lift: 1.4016018306636155 
+ conviction: 1.4808219178082194 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_file_changes_2_to_4'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.15630252100840336 
+ confidence: 0.6283783783783784 
+ lift: 1.405583214793741 
+ conviction: 1.487914438502674 
+
+
+ ['n_sub_additions_2_to_8'] -> ['time_to_merge_0_to_2'] 
+ support: 0.15378151260504203 
+ confidence: 0.50974930362117 
+ lift: 1.2083698631657216 
+ conviction: 1.1792971734148205 
+
+
+ ['n_sub_additions_2_to_8'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.20336134453781513 
+ confidence: 0.6740947075208914 
+ lift: 1.2191074497718248 
+ conviction: 1.371744595274007 
+
+
+ ['n_sub_additions_2_to_8'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.15210084033613444 
+ confidence: 0.5041782729805013 
+ lift: 1.2874938730617953 
+ conviction: 1.2270607119252195 
+
+
+ ['n_sub_additions_2_to_8', 'time_to_merge_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.10840336134453782 
+ confidence: 0.7049180327868853 
+ lift: 1.2748517614230903 
+ conviction: 1.515032679738562 
+
+
+ ['n_sub_additions_2_to_8', 'n_reviewers_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.15210084033613444 
+ confidence: 0.6830188679245282 
+ lift: 1.2352468887996786 
+ conviction: 1.4103641456582625 
+
+
+ ['n_sub_additions_2_to_8', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.15210084033613444 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_2_to_8', 'n_reviewers_2_to_6'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.1134453781512605 
+ confidence: 0.5094339622641509 
+ lift: 1.3009150538505143 
+ conviction: 1.2402068519715579 
+
+
+ ['n_sub_additions_2_to_8', 'n_sub_file_changes_1_to_2', 'n_reviewers_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1134453781512605 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_2_to_8', 'n_review_comments_3_to_6'] -> ['n_reviewers_2_to_6'] 
+ support: 0.10252100840336134 
+ confidence: 0.9312977099236641 
+ lift: 1.2138491509410299 
+ conviction: 3.38814192343604 
+
+
+ ['n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.19747899159663865 
+ confidence: 0.6657223796033994 
+ lift: 2.206712066094834 
+ conviction: 2.0890400227887764 
+
+
+ ['n_sub_deletions_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.2 
+ confidence: 0.6742209631728046 
+ lift: 1.219335784461455 
+ conviction: 1.3722762148337595 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.14453781512605043 
+ confidence: 0.6745098039215688 
+ lift: 2.235840297121635 
+ conviction: 2.1454388984509474 
+
+
+ ['n_sub_commits_1_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.13445378151260504 
+ confidence: 0.6722689075630252 
+ lift: 2.2284122562674096 
+ conviction: 2.1307692307692303 
+
+
+ ['n_sub_commits_1_to_2', 'n_reviewers_2_to_6', 'n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.1 
+ confidence: 0.6839080459770115 
+ lift: 2.266993244324913 
+ conviction: 2.2092284186401834 
+
+
+ ['time_to_merge_0_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.10168067226890756 
+ confidence: 0.7289156626506024 
+ lift: 2.4161828371983756 
+ conviction: 2.576022408963585 
+
+
+ ['time_to_merge_0_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.10084033613445378 
+ confidence: 0.7228915662650602 
+ lift: 1.3073570879261727 
+ conviction: 1.6132992327365727 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.146218487394958 
+ confidence: 0.6823529411764707 
+ lift: 1.2340425531914896 
+ conviction: 1.4074074074074079 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.14789915966386555 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_additions_2_to_8'] 
+ support: 0.10336134453781512 
+ confidence: 0.6988636363636364 
+ lift: 2.316567485439352 
+ conviction: 2.318947201522118 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_2_to_6', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.10672268907563025 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_2_to_8', 'n_sub_file_changes_1_to_2', 'n_sub_deletions_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.10336134453781512 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['length_discussion_4_to_7'] -> ['time_to_merge_0_to_2'] 
+ support: 0.14285714285714285 
+ confidence: 0.5 
+ lift: 1.1852589641434264 
+ conviction: 1.1563025210084033 
+
+
+ ['length_discussion_4_to_7'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.18571428571428572 
+ confidence: 0.65 
+ lift: 1.175531914893617 
+ conviction: 1.2773109243697478 
+
+
+ ['length_discussion_4_to_7', 'n_reviewers_2_to_6'] -> ['time_to_merge_0_to_2'] 
+ support: 0.11092436974789915 
+ confidence: 0.5096525096525096 
+ lift: 1.2081404113276624 
+ conviction: 1.179064381658175 
+
+
+ ['length_discussion_4_to_7', 'n_review_comments_3_to_6'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12352941176470589 
+ confidence: 0.8802395209580839 
+ lift: 1.1473001423221465 
+ conviction: 1.9436554621848745 
+
+
+ ['length_discussion_4_to_7', 'n_reviewers_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.14201680672268907 
+ confidence: 0.6525096525096524 
+ lift: 1.1800706481557544 
+ conviction: 1.2865359477124179 
+
+
+ ['length_discussion_4_to_7', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.13949579831932774 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['length_discussion_4_to_7', 'n_reviewers_2_to_6'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.11176470588235295 
+ confidence: 0.5135135135135135 
+ lift: 1.3113327920194873 
+ conviction: 1.2506069094304388 
+
+
+ ['length_discussion_4_to_7', 'n_sub_file_changes_1_to_2', 'n_reviewers_2_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.11176470588235295 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_reviewers_1_to_2'] -> ['time_to_merge_0_to_2'] 
+ support: 0.11680672268907563 
+ confidence: 0.5018050541516246 
+ lift: 1.189537877371381 
+ conviction: 1.1604920228961149 
+
+
+ ['n_reviewers_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1453781512605042 
+ confidence: 0.6245487364620939 
+ lift: 1.129503034027191 
+ conviction: 1.1907239819004525 
+
+
+ ['n_reviewers_1_to_2', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.10672268907563025 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_review_comments_1_to_2'] -> ['n_reviewers_1_to_2'] 
+ support: 0.1403361344537815 
+ confidence: 1.0 
+ lift: 4.296028880866426 
+ conviction: inf 
+
+
+ ['n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.2747899159663866 
+ confidence: 0.9589442815249268 
+ lift: 1.24988356518583 
+ conviction: 5.669687875150079 
+
+
+ ['n_review_comments_6_to_195'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.18067226890756302 
+ confidence: 0.6304985337243402 
+ lift: 1.4103256675412872 
+ conviction: 1.496451914098973 
+
+
+ ['n_sub_commits_2_to_19', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.173109243697479 
+ confidence: 0.958139534883721 
+ lift: 1.2488346621156932 
+ conviction: 5.560690943043885 
+
+
+ ['n_sub_commits_1_to_2', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.10168067226890756 
+ confidence: 0.9603174603174603 
+ lift: 1.251673360107095 
+ conviction: 5.865882352941179 
+
+
+ ['n_sub_file_changes_4_to_1687'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.2411764705882353 
+ confidence: 0.8618618618618619 
+ lift: 1.927848901533112 
+ conviction: 4.002813299232737 
+
+
+ ['n_sub_file_changes_4_to_1687'] -> ['n_reviewers_2_to_6'] 
+ support: 0.23361344537815126 
+ confidence: 0.8348348348348348 
+ lift: 1.088119883300606 
+ conviction: 1.4093353705118403 
+
+
+ ['n_sub_file_changes_4_to_1687'] -> ['n_review_comments_6_to_195'] 
+ support: 0.146218487394958 
+ confidence: 0.5225225225225225 
+ lift: 1.8234656944334364 
+ conviction: 1.49419692405264 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_reviewers_2_to_6'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.20336134453781513 
+ confidence: 0.8705035971223022 
+ lift: 1.947179098826202 
+ conviction: 4.269934640522877 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.13949579831932774 
+ confidence: 0.9540229885057471 
+ lift: 1.243469174503657 
+ conviction: 5.062815126050413 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_review_comments_6_to_195'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.13025210084033614 
+ confidence: 0.8908045977011494 
+ lift: 1.9925892316999394 
+ conviction: 5.06377708978328 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_commits_2_to_19', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12521008403361344 
+ confidence: 0.9612903225806451 
+ lift: 1.2529413843055504 
+ conviction: 6.013305322128835 
+
+
+ ['length_discussion_7_to_12'] -> ['n_reviewers_2_to_6'] 
+ support: 0.22268907563025211 
+ confidence: 0.8386075949367089 
+ lift: 1.0930372814618659 
+ conviction: 1.4422804415884 
+
+
+ ['n_sub_commits_1_to_2', 'length_discussion_7_to_12'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12352941176470589 
+ confidence: 0.8448275862068966 
+ lift: 1.101144389470106 
+ conviction: 1.500093370681606 
+
+
+ ['n_review_comments_3_to_6', 'length_discussion_7_to_12'] -> ['n_reviewers_2_to_6'] 
+ support: 0.10420168067226891 
+ confidence: 0.9253731343283582 
+ lift: 1.2061270863644538 
+ conviction: 3.119159663865546 
+
+
+ ['n_sub_additions_28_to_17474'] -> ['n_reviewers_2_to_6'] 
+ support: 0.20756302521008405 
+ confidence: 0.8151815181518153 
+ lift: 1.0625038407455203 
+ conviction: 1.2594687875150063 
+
+
+ ['n_sub_additions_28_to_17474'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.19663865546218487 
+ confidence: 0.7722772277227723 
+ lift: 1.727462219906201 
+ conviction: 2.4281329923273662 
+
+
+ ['n_sub_additions_28_to_17474'] -> ['n_sub_file_changes_4_to_1687'] 
+ support: 0.17899159663865546 
+ confidence: 0.702970297029703 
+ lift: 2.512116076472512 
+ conviction: 2.4245658263305327 
+
+
+ ['n_sub_additions_28_to_17474', 'n_reviewers_2_to_6'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.1638655462184874 
+ confidence: 0.7894736842105263 
+ lift: 1.765927977839335 
+ conviction: 2.6264705882352946 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_additions_28_to_17474'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.15966386554621848 
+ confidence: 0.8920187793427229 
+ lift: 1.9953051643192485 
+ conviction: 5.120716112531964 
+
+
+ ['n_sub_additions_28_to_17474', 'n_reviewers_2_to_6'] -> ['n_sub_file_changes_4_to_1687'] 
+ support: 0.14789915966386555 
+ confidence: 0.7125506072874493 
+ lift: 2.54635202003623 
+ conviction: 2.5053734169724224 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_additions_28_to_17474', 'n_reviewers_2_to_6'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.13361344537815126 
+ confidence: 0.9034090909090908 
+ lift: 2.020783492822966 
+ conviction: 5.724567474048438 
+
+
+ ['n_sub_additions_28_to_17474', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.11092436974789915 
+ confidence: 0.9496402877697842 
+ lift: 1.2377567825257865 
+ conviction: 4.6222088835534185 
+
+
+ ['n_sub_additions_28_to_17474', 'n_review_comments_6_to_195'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.1 
+ confidence: 0.8561151079136691 
+ lift: 1.914994320333207 
+ conviction: 3.8429411764705885 
+
+
+ ['length_discussion_12_to_209', 'n_sub_additions_28_to_17474'] -> ['n_reviewers_2_to_6'] 
+ support: 0.1092436974789916 
+ confidence: 0.9558823529411765 
+ lift: 1.245892661555312 
+ conviction: 5.2761904761904805 
+
+
+ ['n_sub_deletions_17_to_7487'] -> ['n_reviewers_2_to_6'] 
+ support: 0.20588235294117646 
+ confidence: 0.8221476510067114 
+ lift: 1.071583466262855 
+ conviction: 1.3087997463136194 
+
+
+ ['n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.18319327731092436 
+ confidence: 0.7315436241610738 
+ lift: 2.873059117992336 
+ conviction: 2.7765336134453777 
+
+
+ ['n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.17647058823529413 
+ confidence: 0.7046979865771813 
+ lift: 1.5762981278700108 
+ conviction: 1.872459893048129 
+
+
+ ['n_sub_deletions_17_to_7487'] -> ['n_sub_file_changes_4_to_1687'] 
+ support: 0.1672268907563025 
+ confidence: 0.6677852348993288 
+ lift: 2.3863796682588627 
+ conviction: 2.1677786266021557 
+
+
+ ['n_sub_deletions_17_to_7487'] -> ['n_review_comments_6_to_195'] 
+ support: 0.12773109243697478 
+ confidence: 0.5100671140939597 
+ lift: 1.7799996063689503 
+ conviction: 1.4562104293772302 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.15378151260504203 
+ confidence: 0.7469387755102042 
+ lift: 2.9335219236209342 
+ conviction: 2.945445920303606 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.15126050420168066 
+ confidence: 0.7346938775510204 
+ lift: 1.6433941997851773 
+ conviction: 2.0841628959276024 
+
+
+ ['n_sub_commits_2_to_19', 'n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.146218487394958 
+ confidence: 0.8285714285714285 
+ lift: 3.254125412541254 
+ conviction: 4.348039215686273 
+ conviction: 1.9306587150989432 
+
+
+ ['n_sub_commits_2_to_19', 'n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.12436974789915967 
+ confidence: 0.8222222222222223 
+ lift: 3.2291895856252295 
+ conviction: 4.192752100840338 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.14873949579831933 
+ confidence: 0.8894472361809046 
+ lift: 1.9895530282993918 
+ conviction: 5.00160427807487 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_file_changes_4_to_1687'] 
+ support: 0.1411764705882353 
+ confidence: 0.6857142857142857 
+ lift: 2.4504504504504503 
+ conviction: 2.2914438502673797 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.1369747899159664 
+ confidence: 0.8190954773869348 
+ lift: 3.216909630661559 
+ conviction: 4.120284780578901 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.126890756302521 
+ confidence: 0.8988095238095237 
+ lift: 2.0104949874686713 
+ conviction: 5.464359861591691 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_additions_28_to_17474', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.12605042016806722 
+ confidence: 0.920245398773006 
+ lift: 2.058443655150145 
+ conviction: 6.933031674208137 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_additions_28_to_17474'] 
+ support: 0.11596638655462185 
+ confidence: 0.8214285714285715 
+ lift: 3.2260726072607264 
+ conviction: 4.174117647058825 
+
+
+ ['n_sub_file_changes_4_to_1687', 'n_sub_additions_28_to_17474', 'n_reviewers_2_to_6', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.10672268907563025 
+ confidence: 0.9202898550724637 
+ lift: 2.0585430968726164 
+ conviction: 6.936898395721924 
+
+
+ ['n_review_comments_6_to_195', 'n_sub_deletions_17_to_7487'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12184873949579832 
+ confidence: 0.9539473684210527 
+ lift: 1.2433706116331353 
+ conviction: 5.054501800720289 
+
+
+ ['n_review_comments_6_to_195', 'n_sub_deletions_17_to_7487'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.10168067226890756 
+ confidence: 0.7960526315789475 
+ lift: 1.7806440443213298 
+ conviction: 2.711195445920305 
+
+
+ ['length_discussion_12_to_209', 'n_sub_deletions_17_to_7487'] -> ['n_reviewers_2_to_6'] 
+ support: 0.11512605042016806 
+ confidence: 0.9383561643835616 
+ lift: 1.2230491080136234 
+ conviction: 3.776097105508868 
+
+
+ ['length_discussion_12_to_209', 'n_sub_deletions_17_to_7487'] -> ['n_review_comments_6_to_195'] 
+ support: 0.10252100840336134 
+ confidence: 0.8356164383561644 
+ lift: 2.916080825935002 
+ conviction: 4.340126050420168 
+
+
+ ['length_discussion_12_to_209'] -> ['n_reviewers_2_to_6'] 
+ support: 0.23781512605042016 
+ confidence: 0.9099678456591639 
+ lift: 1.1860479039807283 
+ conviction: 2.585444177671065 
+
+
+ ['length_discussion_12_to_209'] -> ['n_review_comments_6_to_195'] 
+ support: 0.18739495798319328 
+ confidence: 0.7170418006430868 
+ lift: 2.502286635675288 
+ conviction: 2.521380825057295 
+
+
+ ['length_discussion_12_to_209'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.17394957983193277 
+ confidence: 0.6655948553054661 
+ lift: 1.4888305973938059 
+ conviction: 1.6535067873303164 
+
+
+ ['length_discussion_12_to_209'] -> ['n_sub_file_changes_4_to_1687'] 
+ support: 0.1361344537815126 
+ confidence: 0.5209003215434083 
+ lift: 1.861475623533501 
+ conviction: 1.5031695899836441 
+
+
+ ['length_discussion_12_to_209', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.18067226890756302 
+ confidence: 0.9641255605381166 
+ lift: 1.2566368204166032 
+ conviction: 6.4885504201680675 
+ conviction: 2.062738428704815 
+
+
+ ['length_discussion_12_to_209', 'n_sub_commits_2_to_19'] -> ['n_reviewers_2_to_6'] 
+ support: 0.16050420168067228 
+ confidence: 0.9227053140096619 
+ lift: 1.2026498616336228 
+ conviction: 3.0115021008403393 
+
+
+ ['length_discussion_12_to_209', 'n_sub_commits_2_to_19'] -> ['n_review_comments_6_to_195'] 
+ support: 0.1319327731092437 
+ confidence: 0.7584541062801933 
+ lift: 2.646804652414751 
+ conviction: 2.953663865546219 
+
+
+ ['length_discussion_12_to_209', 'n_sub_commits_2_to_19', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.126890756302521 
+ confidence: 0.9617834394904458 
+ lift: 1.2535841106173389 
+ conviction: 6.090896358543399 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12773109243697478 
+ confidence: 0.9382716049382717 
+ lift: 1.2229388936216246 
+ conviction: 3.770924369747902 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.12521008403361344 
+ confidence: 0.9197530864197532 
+ lift: 2.057342430149448 
+ conviction: 6.8904977375565695 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687'] -> ['n_review_comments_6_to_195'] 
+ support: 0.11260504201680673 
+ confidence: 0.8271604938271606 
+ lift: 2.8865718113029946 
+ conviction: 4.1277911164465815 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687', 'n_reviewers_2_to_6'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.11764705882352941 
+ confidence: 0.9210526315789475 
+ lift: 2.0602493074792245 
+ conviction: 7.003921568627459 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687', 'n_review_comments_6_to_195'] -> ['n_reviewers_2_to_6'] 
+ support: 0.10840336134453782 
+ confidence: 0.9626865671641791 
+ lift: 1.2547612430726978 
+ conviction: 6.238319327731092 
+
+
+ ['length_discussion_12_to_209', 'n_sub_file_changes_4_to_1687', 'n_review_comments_6_to_195'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.10420168067226891 
+ confidence: 0.9253731343283582 
+ lift: 2.0699135899450116 
+ conviction: 7.409411764705883 
+
+
+['n_sub_file_changes_4_to_1687', 'length_discussion_12_to_209', 'n_reviewers_2_to_6', 'n_review_comments_6_to_195'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.1 
+ confidence: 0.9224806201550387 
+ lift: 2.0634434924520604 
+ conviction: 7.132941176470586 
+
+
+ ['time_to_merge_2_to_7'] -> ['n_reviewers_2_to_6'] 
+ support: 0.253781512605042 
+ confidence: 0.8031914893617021 
+ lift: 1.046876092377246 
+ conviction: 1.182739041562571 
+
+
+ ['n_sub_commits_2_to_19', 'time_to_merge_2_to_7'] -> ['n_reviewers_2_to_6'] 
+ support: 0.1226890756302521 
+ confidence: 0.8439306358381502 
+ lift: 1.0999753084856503 
+ conviction: 1.4914721444133197 
+
+
+ ['n_sub_commits_1_to_2', 'time_to_merge_2_to_7'] -> ['n_reviewers_2_to_6'] 
+ support: 0.13109243697478992 
+ confidence: 0.768472906403941 
+ lift: 1.0016240510631869 
+ conviction: 1.0053817271589487 
+
+
+ ['n_sub_file_changes_1_to_2', 'time_to_merge_2_to_7'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.11764705882352941 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.3915966386554622 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.2848739495798319 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_file_changes_1_to_2', 'time_to_merge_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.19327731092436976 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_reviewers_2_to_6', 'time_to_merge_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1369747899159664 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_8_to_28'] -> ['n_reviewers_2_to_6'] 
+ support: 0.2092436974789916 
+ confidence: 0.8032258064516129 
+ lift: 1.0469208211143695 
+ conviction: 1.1829453092712492 
+
+
+ ['n_sub_additions_8_to_28'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.146218487394958 
+ confidence: 0.5612903225806452 
+ lift: 1.2555178268251272 
+ conviction: 1.2603806228373704 
+
+
+ ['n_sub_additions_8_to_28', 'n_sub_commits_2_to_19'] -> ['n_reviewers_2_to_6'] 
+ support: 0.1226890756302521 
+ confidence: 0.8390804597701148 
+ lift: 1.0936536113104454 
+ conviction: 1.4465186074429757 
+
+
+ ['n_sub_deletions_6_to_17'] -> ['n_reviewers_2_to_6'] 
+ support: 0.1991596638655462 
+ confidence: 0.7821782178217822 
+ lift: 1.0194874909177665 
+ conviction: 1.0686401833460657 
+
+
+ ['n_sub_deletions_6_to_17'] -> ['n_sub_additions_8_to_28'] 
+ support: 0.1403361344537815 
+ confidence: 0.5511551155115512 
+ lift: 2.1157244756733737 
+ conviction: 1.64755313890262 
+
+
+ ['n_sub_deletions_6_to_17'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.16050420168067228 
+ confidence: 0.6303630363036304 
+ lift: 1.4100225812054892 
+ conviction: 1.4959033613445383 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_6_to_17'] -> ['n_sub_additions_8_to_28'] 
+ support: 0.1134453781512605 
+ confidence: 0.569620253164557 
+ lift: 2.1866067782768477 
+ conviction: 1.7182402372713794 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_6_to_17'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.12773109243697478 
+ confidence: 0.6413502109704642 
+ lift: 1.4345991561181435 
+ conviction: 1.5417301038062288 
+
+
+ ['n_review_comments_3_to_6'] -> ['n_reviewers_2_to_6'] 
+ support: 0.2865546218487395 
+ confidence: 0.899736147757256 
+ lift: 1.1727119560034331 
+ conviction: 2.321605484298983 
+
+
+ ['n_review_comments_3_to_6'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.17647058823529413 
+ confidence: 0.554089709762533 
+ lift: 1.0020771346769213 
+ conviction: 1.0025757048381483 
+
+
+ ['n_sub_commits_2_to_19', 'n_review_comments_3_to_6'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12605042016806722 
+ confidence: 0.8875739644970414 
+ lift: 1.1568598222907769 
+ conviction: 2.0704555506413085 
+
+
+ ['n_review_comments_3_to_6', 'time_to_merge_0_to_2'] -> ['n_reviewers_2_to_6'] 
+ support: 0.11512605042016806 
+ confidence: 0.8896103896103895 
+ lift: 1.1595140894155131 
+ conviction: 2.1086505190311398 
+
+
+ ['n_review_comments_3_to_6', 'n_sub_file_changes_2_to_4'] -> ['n_reviewers_2_to_6'] 
+ support: 0.11260504201680673 
+ confidence: 0.8874172185430464 
+ lift: 1.1566555203354054 
+ conviction: 2.0675729115175496 
+
+
+ ['n_sub_commits_1_to_2', 'n_review_comments_3_to_6'] -> ['n_reviewers_2_to_6'] 
+ support: 0.16050420168067228 
+ confidence: 0.9095238095238095 
+ lift: 1.1854691493245708 
+ conviction: 2.5727554179566554 
+
+
+ ['n_review_comments_3_to_6', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.11428571428571428 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_review_comments_3_to_6', 'n_sub_file_changes_1_to_2'] -> ['n_reviewers_2_to_6'] 
+ support: 0.1092436974789916 
+ confidence: 0.9558823529411765 
+ lift: 1.245892661555312 
+ conviction: 5.2761904761904805 
+
+
+ ['n_review_comments_3_to_6', 'n_reviewers_2_to_6', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1092436974789916 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['time_to_merge_7_to_905'] -> ['n_reviewers_2_to_6'] 
+ support: 0.20840336134453782 
+ confidence: 0.7948717948717948 
+ lift: 1.036032240851518 
+ conviction: 1.1347689075630247 
+
+
+ ['time_to_merge_7_to_905'] -> ['n_sub_commits_2_to_19'] 
+ support: 0.14705882352941177 
+ confidence: 0.5608974358974359 
+ lift: 1.2546390013495277 
+ conviction: 1.2592528982395879 
+
+
+ ['n_sub_commits_2_to_19', 'time_to_merge_7_to_905'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12521008403361344 
+ confidence: 0.8514285714285714 
+ lift: 1.109748083242059 
+ conviction: 1.5667420814479633 
+
+
+ ['n_review_comments_2_to_3'] -> ['n_reviewers_2_to_6'] 
+ support: 0.20588235294117646 
+ confidence: 0.8085808580858086 
+ lift: 1.0539005707799696 
+ conviction: 1.2160388293248332 
+
+
+ ['n_review_comments_2_to_3'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.173109243697479 
+ confidence: 0.6798679867986799 
+ lift: 1.22954848676357 
+ conviction: 1.3964827167980594 
+
+
+ ['n_review_comments_2_to_3'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.1403361344537815 
+ confidence: 0.5511551155115512 
+ lift: 1.4074561962634031 
+ conviction: 1.3554869006426102 
+
+
+ ['n_review_comments_2_to_3', 'time_to_merge_0_to_2'] -> ['n_reviewers_2_to_6'] 
+ support: 0.10336134453781512 
+ confidence: 0.831081081081081 
+ lift: 1.083227257926053 
+ conviction: 1.3780168067226883 
+
+
+ ['n_reviewers_2_to_6', 'n_review_comments_2_to_3'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1453781512605042 
+ confidence: 0.706122448979592 
+ lift: 1.2770299609205387 
+ conviction: 1.52124183006536 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_review_comments_2_to_3'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1403361344537815 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_review_comments_2_to_3'] -> ['n_reviewers_2_to_6'] 
+ support: 0.12016806722689076 
+ confidence: 0.8562874251497006 
+ lift: 1.1160810908303873 
+ conviction: 1.619712885154061 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_file_changes_1_to_2', 'n_review_comments_2_to_3'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.12016806722689076 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['length_discussion_1_to_4'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.13361344537815126 
+ confidence: 0.7130044843049327 
+ lift: 1.289476195019559 
+ conviction: 1.5577205882352938 
+
+
+ ['length_discussion_1_to_4'] -> ['time_to_merge_0_to_2'] 
+ support: 0.1092436974789916 
+ confidence: 0.5829596412556054 
+ lift: 1.3819162810640846 
+ conviction: 1.3863196891659888 
+
+
+ ['length_discussion_1_to_4'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.1092436974789916 
+ confidence: 0.5829596412556054 
+ lift: 1.4886737620046575 
+ conviction: 1.458859672901419 
+
+
+ ['n_sub_file_changes_1_to_2', 'length_discussion_1_to_4'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1092436974789916 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_deletions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.18487394957983194 
+ confidence: 0.9322033898305085 
+ lift: 1.6858997475658133 
+ conviction: 6.594117647058829 
+
+
+ ['n_sub_deletions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.16974789915966387 
+ confidence: 0.8559322033898306 
+ lift: 2.1857496180984946 
+ conviction: 4.2230350963914995 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_sub_deletions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.16974789915966387 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_deletions_0_to_2'] -> ['n_sub_commits_1_to_2', 'n_reviewers_2_to_6'] 
+ support: 0.13529411764705881 
+ confidence: 0.6822033898305084 
+ lift: 1.6738598637078455 
+ conviction: 1.8642016806722688 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.126890756302521 
+ confidence: 0.8579545454545454 
+ lift: 2.1909139680062424 
+ conviction: 4.283159663865545 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_deletions_0_to_2', 'n_sub_file_changes_1_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.126890756302521 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1773109243697479 
+ confidence: 0.9678899082568808 
+ lift: 1.7504391957837204 
+ conviction: 13.922689075630286 
+
+
+ ['n_sub_additions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.17058823529411765 
+ confidence: 0.9311926605504588 
+ lift: 2.3779383391739186 
+ conviction: 8.842128851540627 
+
+
+ ['n_sub_additions_0_to_2'] -> ['n_sub_deletions_0_to_2'] 
+ support: 0.1226890756302521 
+ confidence: 0.6697247706422018 
+ lift: 3.3770020214585603 
+ conviction: 2.4273109243697477 
+
+
+ ['n_sub_file_changes_1_to_2', 'n_sub_additions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.17058823529411765 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_additions_0_to_2'] -> ['n_sub_commits_1_to_2', 'n_reviewers_2_to_6'] 
+ support: 0.12521008403361344 
+ confidence: 0.6834862385321101 
+ lift: 1.6770074718622907 
+ conviction: 1.8717573986116187 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_additions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.11932773109243698 
+ confidence: 0.9342105263157896 
+ lift: 2.3856449062570593 
+ conviction: 9.247731092436993 
+
+
+ ['n_reviewers_2_to_6', 'n_sub_file_changes_1_to_2', 'n_sub_additions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.11932773109243698 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_deletions_0_to_2', 'n_sub_additions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.1226890756302521 
+ confidence: 1.0 
+ lift: 2.5536480686695278 
+ conviction: inf 
+
+
+ ['n_sub_deletions_0_to_2', 'n_sub_additions_0_to_2'] -> ['n_sub_commits_1_to_2'] 
+ support: 0.1226890756302521 
+ confidence: 1.0 
+ lift: 1.8085106382978722 
+ conviction: inf 
+
+
+ ['n_sub_commits_1_to_2', 'n_sub_deletions_0_to_2', 'n_sub_additions_0_to_2'] -> ['n_sub_file_changes_1_to_2'] 
+ support: 0.1226890756302521 
+ confidence: 1.0 
+ lift: 2.5536480686695278 
+ conviction: inf 

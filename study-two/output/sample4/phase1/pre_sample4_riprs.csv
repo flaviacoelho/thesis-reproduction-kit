@@ -1,0 +1,27 @@
+repo,pr_number,has_refactorings,n_changed_files,n_reviewers,length_discussion,n_comments,n_review_comments,n_additions,n_deletions,created_at,merged_at,pr_title,pr_labels,n_sub_commits,n_sub_file_changes,n_sub_additions,n_sub_deletions,n_refactorings,time_to_merge
+apache/accumulo,151,True,1,4,24,8,16,17,3,2016-09-14 16:48:23,2016-11-08 16:30:11,ACCUMULO-3626: Reset security should warn and require instance secret,[],1,1,7,6,2,54
+apache/kafka,5946,True,3,2,24,18,6,42,0,2018-11-26 13:21:22,2018-12-11 08:40:18,KAFKA-7443: OffsetOutOfRangeException in restoring state store from changelog topic when start offset of local checkpoint is smaller than that of changelog topic,['streams'],6,8,58,19,2,14
+apache/kafka,4574,True,3,1,6,5,1,106,19,2018-02-15 19:24:58,2018-02-16 15:58:50,MINOR: Free sends in MultiSend as they complete,[],4,5,14,9,5,0
+apache/knox,69,True,11,2,14,0,14,424,73,2019-03-11 14:45:51,2019-03-11 18:46:47,KNOX-1812 - The Knox Gateway truststore should be configurable,[],1,2,16,16,2,0
+apache/avro,525,True,9,3,10,0,10,268,2,2019-05-23 12:57:38,2019-07-08 14:44:00,AVRO-2328: Support distinguishing between LocalDateTime and Instant semantics in timestamps,"['Java', 'website']",8,9,41,16,2,46
+apache/flink,7165,True,2,1,8,2,6,16,1,2018-11-23 03:12:32,2018-11-27 16:04:42,[FLINK-10990][Metric]Pre-check timespan in meterview to avoid NAN,['component=Runtime/Metrics'],2,3,11,15,2,4
+apache/kafka,5501,True,19,4,25,19,6,464,171,2018-08-13 23:29:25,2018-08-16 00:12:55,KAFKA-7285: Create new producer on each rebalance if EOS enabled,['streams'],5,10,351,103,5,2
+apache/flink,8620,True,5,3,16,2,14,454,1,2019-06-05 07:36:09,2019-06-07 08:08:39,[FLINK-12643] [runtime] Implement ExecutionGraph to FailoverTopology Adapter,"['component=Runtime/Coordination', 'review=description?']",1,3,54,16,2,2
+apache/dubbo,3257,True,5,1,5,2,3,10,10,2019-01-16 14:17:38,2019-01-17 02:19:33,modify some typos,[],1,3,7,7,3,0
+apache/kafka,6848,True,14,3,24,5,19,518,308,2019-05-31 01:24:01,2019-06-13 13:48:16,KAFKA-8452: Compressed BufferValue,[],3,10,35,27,4,13
+apache/brooklyn-server,964,True,9,1,5,2,3,119,22,2018-05-24 14:17:37,2018-06-01 10:01:00,Persistence efficiency do less: don't persist policies/enrichers with entity,[],1,2,14,14,3,7
+apache/struts,43,True,5,2,13,6,7,172,43,2015-06-20 18:23:19,2015-06-26 19:45:48,WW-4516: Allow JSON plug-in to skip bean cache when devMode is enabled.,[],3,5,21,31,2,6
+apache/cloudstack,2833,True,6,3,16,8,8,428,20,2018-08-31 12:09:08,2018-09-18 10:29:23,Run diagnostics API UI integration for system VMs and VR,['component:UI'],2,4,30,17,2,17
+apache/dubbo,3174,True,1,4,26,7,19,29,11,2019-01-09 03:06:12,2019-01-24 04:50:50,Fix timeout filter not work in async way.,[],4,4,31,26,4,15
+apache/dubbo,2445,True,3,3,13,4,9,138,26,2018-09-05 04:29:06,2018-12-14 02:09:20,[Dubbo-2328]Fix the concurrency limit of 'ActiveLimitFilter' to calculate atomicity,[],4,5,101,19,3,99
+apache/kafka,4796,True,2,2,20,15,5,101,9,2018-03-29 14:04:19,2018-04-16 19:32:08,KAFKA-6727 fix broken Config hashCode() and equals(),[],4,7,69,41,3,18
+apache/dubbo,4099,True,73,1,4,1,3,5158,24,2019-05-20 07:48:53,2019-05-23 02:20:30,Polish apache/incubator-dubbo/#4096 : To add new module for Dubbo Event,['type/feature'],10,68,4081,204,4,2
+apache/tomee,407,True,6,1,6,0,6,262,0,2019-02-22 13:19:41,2019-02-22 14:49:01,Create a sample code that fire an EJB client [WIP],[],3,9,43,46,4,0
+apache/kafka,6853,True,1,3,20,13,7,25,17,2019-05-31 19:09:04,2019-07-12 19:18:18,MINOR: Create a new topic for each test for flaky RegexSourceIntegrationTest,"['streams', 'tests']",3,3,14,17,2,42
+apache/knox,74,True,9,2,3,1,2,337,37,2019-03-15 13:58:49,2019-03-15 17:28:24,KNOX-1111 - 2-way SSL Truststore and Keystore Improvements,[],1,2,39,23,2,0
+apache/logging-log4j2,213,True,6,2,11,7,4,922,17,2018-08-24 13:28:36,2019-02-03 04:50:39,LOG4J2-2025: JUL bridge handler (incl. unit test and site doc),[],4,9,456,102,3,162
+apache/tinkerpop,1110,True,11,3,17,4,13,326,15,2019-05-08 18:58:24,2019-05-15 11:10:39,TINKERPOP-2211 Add API which allows per-request option for bytecode,[],2,13,213,35,2,6
+apache/rocketmq-externals,45,True,27,2,36,14,22,2294,0,2018-01-27 11:11:38,2018-03-23 13:47:33,ROCKETMQ-82: RocketMQ-Flink Integration,[],3,21,462,70,5,55
+apache/tomee,89,True,9,2,13,0,13,995,17,2017-07-12 11:14:42,2017-07-20 11:46:48,Allows set activation properties on a per-container basis.,[],16,24,1159,354,4,8
+apache/sling-org-apache-sling-feature-analyser,16,True,10,2,15,8,7,281,13,2019-06-13 10:34:04,2019-06-18 10:56:45,SLING-8251 - Support checking dependencies for content packages,[],5,7,135,199,2,5
+apache/tika,234,True,5,2,5,1,4,178,28,2018-04-24 20:24:05,2018-05-01 17:36:47,TIKA-2636 ENVI Header metadata fields can span more than one line,[],2,2,38,27,2,6
