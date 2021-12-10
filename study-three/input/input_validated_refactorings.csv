@@ -1,0 +1,929 @@
+repo,pr_number,commit,initial_flag,refactoring_type
+apache/flink,7971,da35b442217cef0efed8e6bca41a02792501e6ed,True,
+apache/flink,7971,0f5934e2771e94c2fb5ab2571b606df415603f1d,False,
+apache/flink,7971,f78e481f34c9e30de3a0d2816dd1c8de5db9a452,False,Rename Parameter
+apache/flink,7971,aec6a1366bdaa9c613bb98e559895ea9c2b25209,False,Rename Method
+apache/dubbo,3299,770c252549d6a22dd682f1d051b2b4ac4d31be53,True,
+apache/dubbo,3299,e2e550096a859a1496abe489f6e98c49418390b4,True,
+apache/dubbo,3299,9cb5f96a5fe3f7df1daa9cba6b15e17d406949f7,False,Replace Variable With Attribute
+apache/dubbo,3299,9cb5f96a5fe3f7df1daa9cba6b15e17d406949f7,False,Replace Variable With Attribute
+apache/dubbo,3299,9cb5f96a5fe3f7df1daa9cba6b15e17d406949f7,False,Replace Variable With Attribute
+apache/dubbo,3299,9cb5f96a5fe3f7df1daa9cba6b15e17d406949f7,False,Replace Variable With Attribute
+apache/dubbo,3299,2393ea120e3f5c9c021a00e2e02ba01e03d5acce,False,Replace Variable With Attribute
+apache/dubbo,3299,2393ea120e3f5c9c021a00e2e02ba01e03d5acce,False,Change Variable Type
+apache/fluo,837,e37c22bb8ef708815c83398287331a42bd737c22,True,
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Change Parameter Type
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Change Parameter Type
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/fluo,837,48587dcc24b4693edcf32cdd3ef8bfb99f48ebb7,False,Rename Method
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Parameter Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Attribute Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Parameter Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Parameter Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Variable Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Variable Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,ea45b814e075f7ed4508d2df988e1e74abcb84ea,True,Change Return Type
+apache/beam,4460,0496d801bbc597382df7d1f301f430bf86dae580,False,Change Variable Type
+apache/beam,4460,0496d801bbc597382df7d1f301f430bf86dae580,False,Change Variable Type
+apache/beam,4460,4a67f6d4eeeee05066bb83766abe79e853fd865f,False,
+apache/beam,4460,faefd36b73eb29d0161fbd198459748436ab91ca,False,
+apache/beam,4460,545a32e13d6840fc4e394f63c1ed599c4d3e1807,False,
+apache/beam,4460,7f8201755cbb97ab0731b9f82feb823109592cc2,False,
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Extract Attribute
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Rename Attribute
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Attribute Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Variable Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Attribute Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Return Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Rename Method
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Rename Attribute
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Attribute Type
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Extract Attribute
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Rename Attribute
+apache/flink,7970,87921bc9183ddee5156fb4a90b52bcc6bc62904b,True,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Rename Class
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Rename Attribute
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Variable Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Parameter Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Return Type
+apache/flink,7970,859fcd1bcc97b40b3225053b935fd3ea4999548d,False,Change Attribute Type
+apache/samza,1030,71b21651670396f1cd833c93608eefd1ad7cc9f5,True,
+apache/samza,1030,1519fc80ba6104104440727957c7a120db4d2626,False,Rename Variable
+apache/kafka,5194,bf09e38f16a0efbe1dc194cb5e0c8914d9a94794,True,Move Class
+apache/kafka,5194,3cf197acdd8f96eb184057402b6c89f9f4dbf6b5,False,Move Class
+apache/kafka,5194,3cf197acdd8f96eb184057402b6c89f9f4dbf6b5,False,Move Class
+apache/kafka,5194,128b9a8ccdfa0694443642b242d9d752dec711c4,False,
+apache/kafka,5194,b324fba4db992215ffdbb1a4ca5e9fad139f3d29,False,
+apache/flink,7945,d5e062fb287ce8a4fa60a7aff367b95425889ac3,True,Change Attribute Type
+apache/flink,7945,d5e062fb287ce8a4fa60a7aff367b95425889ac3,True,Change Parameter Type
+apache/flink,7945,d5e062fb287ce8a4fa60a7aff367b95425889ac3,True,Extract Superclass
+apache/flink,7945,42d2f013233d5d7bbc8cb7235bd322e6e3c5fef6,False,Change Return Type
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Rename Class
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Change Attribute Type
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Change Parameter Type
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Change Parameter Type
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Rename Method
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Change Parameter Type
+apache/flink,7945,97dc621e0c7fc5f8cf57c19a0a21b4cb3a27967a,False,Change Parameter Type
+apache/flink,7945,f71ae067a091c8ddbfa86ceac6cd3d3c164500b4,False,Move And Rename Class
+apache/flink,7945,f71ae067a091c8ddbfa86ceac6cd3d3c164500b4,False,Move And Rename Class
+apache/flink,7945,f71ae067a091c8ddbfa86ceac6cd3d3c164500b4,False,Rename Class
+apache/flink,9143,61fa293f3d16f5f6f3d6b0e99bc392a2ba5b967e,True,
+apache/flink,9143,f9d2fe669ceb5e82375ce22fc9bcabafd44948ff,False,Rename Variable
+apache/flink,9143,f9d2fe669ceb5e82375ce22fc9bcabafd44948ff,False,Rename Variable
+apache/flink,9143,b99556d9f1e022766e6d281d6e507a74539a08ef,False,Rename Method
+apache/dubbo,2279,f6dbac583b42815771b7fba029120fafccddb064,True,
+apache/dubbo,2279,c5ba50bb49395b29518d8c48707e0a1e160ffccc,True,
+apache/dubbo,2279,55fe6ff12e112728808ce921bafa9f98f8302db9,False,Change Variable Type
+apache/dubbo,2279,55fe6ff12e112728808ce921bafa9f98f8302db9,False,Rename Variable
+apache/dubbo,2279,9328d1557394463b56d705d574b469db23829e2e,False,Rename Method
+apache/dubbo,2279,9328d1557394463b56d705d574b469db23829e2e,False,Rename Method
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Change Variable Type
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,18969d7d862264e3b5267ba170cf60645863ad19,True,Rename Variable
+apache/commons-text,39,ed55131f3679c12b53b45aae3000a7759dcfe4f0,False,Extract Variable
+apache/commons-text,39,d58d0146ffa505f7df86197d9180558f2c0de25b,False,
+apache/hadoop,942,5c923db06d3b5c1a89cc164cca72502bbee1dbda,True,
+apache/hadoop,942,7f4c80159c86e8e11f46d2b7087acfe70a90ab72,False,Extract Method
+apache/hadoop,942,a4f425c743b5d945fdd594f3ab3ca5005798e8f6,False,
+apache/hadoop,942,8eb47c74c0ea3c778a306e8d87738a1446af6276,False,
+apache/hadoop,942,8f9824ec162336855b838d2f73fab94514f5b048,False,
+apache/incubator-pinot,479,8c64060428435c6066ec935ee56af6cafcc64c5d,True,
+apache/incubator-pinot,479,1cc4d03dec01dad07e613daae5d8cb284db58673,True,
+apache/incubator-pinot,479,5912a707f2bae50fed231f56f9628e1a9aefd552,False,Extract Variable
+apache/brooklyn-server,1049,8c55a3de3c36587e36347482e8170526f6a5f4b3,True,
+apache/brooklyn-server,1049,164c8edeacab3dbbaaceb85fcad60a1037dd4a16,True,
+apache/brooklyn-server,1049,d8fceab5792ab0f3586484a07ac3eeada10348e8,False,Split Attribute
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Move And Rename Class
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Variable Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Variable Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Parameter Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Parameter Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Parameter Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Variable Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Variable Type
+apache/samza,1051,85157d8e85b7b1368c359027fc34bcf558e15731,True,Change Variable Type
+apache/samza,1051,0fcadfd3b67b27ba655aad7cd5a19fb66c369ea6,False,Rename Class
+apache/beam,4407,87526161f9acccaeec649df5ab5ff1b7552b5b5c,True,
+apache/beam,4407,c637ed7764b16ee79b6c656b31d9d2452e411582,False,Extract Variable
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Return Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Attribute Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Parameter Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Rename Variable
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Variable Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Attribute Type
+apache/kafka,5784,97d09cc38788eda102eb0379f55e34c6a1d6d4ef,True,Change Parameter Type
+apache/kafka,5784,f1dad89491f3ad473ba9efd4a1ab3b9ee487542c,False,Rename Method
+apache/servicecomb-java-chassis,346,bad5fe84f54f04ef1670c7b50f44bd8ca5cd2826,True,
+apache/servicecomb-java-chassis,346,33e793d7eec17b178130c9374be4771b6bd73f5c,False,Extract Method
+apache/tomee,275,d9563f82ca7852995f31dacf04956d84120ac65c,True,
+apache/tomee,275,4c186420b2148854974e3c79ce563918e17b2454,True,
+apache/tomee,275,8966898c8533a08d6a330cbaf4f48c7e593993df,False,Change Variable Type
+apache/kafka,5423,b6553a70c9f86b4422747cf6023d845cece0877d,True,
+apache/kafka,5423,56fc052c29d3f0b0bfd1f5b320d1fe6c79c499e8,False,Change Variable Type
+apache/beam,4458,b0ea39bb368454ca44f5d775042f01df5dacd740,True,
+apache/beam,4458,62693cbca70283b41f9446c102fad4a0f087fa7f,False,Extract Attribute
+apache/kafka,7132,b2bb961f1c1d258673685a6a3b14e00ef7bd72cb,True,
+apache/kafka,7132,23303c20f3c74afb97767c5941d2ffffcee450cd,False,Rename Method
+apache/dubbo,3185,26b07ca67743362bcd11234fa4cccacbed7fd028,True,
+apache/dubbo,3185,525fde91efd34881591efd0182cd6205e031da98,False,Inline Method
+apache/beam,6261,596dae5130d42b2123287e7b6670367bb964c0af,True,
+apache/beam,6261,dbdacba72040f6262d84be96a1aa351b85492ddc,False,
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Change Attribute Type
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Change Attribute Type
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Extract Class
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Extract Class
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Method
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Method
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Method
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,0ba028dd7b668fec66d99db93331b348920c0183,False,Move Attribute
+apache/beam,6261,2c7e0eaf6336fbcb906dc4219ebb2b6d40cf905b,False,
+apache/beam,6261,d1fed6fb5ee1f868479e4a09234b97cec4a4c241,False,
+apache/beam,6261,35d809e9a45133d0d8b68b4a170c7ddfae3999cc,False,Extract Method
+apache/beam,6261,35d809e9a45133d0d8b68b4a170c7ddfae3999cc,False,Extract And Move Method
+apache/beam,6261,5f42422f59fb302e78da96866ce524649760d560,False,
+apache/beam,6261,5ee970b24a789f4161af977defcfdaf1abbe713c,False,
+apache/beam,6261,7a758762a2c540af0b3c5e93715c5d0f31b523d4,False,
+apache/beam,6261,92a055c304df56d988fc9a9ab6572b4408389327,False,
+apache/beam,6261,efe71a87d08db5fdb8ce85d4167c5a495ddc6e82,False,
+apache/beam,6261,06fe2aae1d83d42fd74d494f75de4bece52f40e6,False,
+apache/beam,6261,324714570d36c96ce85811ddd55d92730c6d17c8,False,
+apache/beam,6261,a425fd3b04f0403ff8bb845328e9f690301822d9,False,
+apache/beam,6261,4f14692dd6cd0efedb7a705930cff6a2ed23df46,False,
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Change Package
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Move Class
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Move Class
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Change Package
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Move Class
+apache/cloudstack,2071,4bb7ffe2cf99a1a1c37048683631eabc459ab5ec,True,Move Class
+apache/cloudstack,2071,20c67ac2aac2e4c8313a3ddf371403ea80ede97f,False,Change Package
+apache/cloudstack,2071,20c67ac2aac2e4c8313a3ddf371403ea80ede97f,False,Move Class
+apache/cloudstack,2071,20c67ac2aac2e4c8313a3ddf371403ea80ede97f,False,Move Class
+apache/cloudstack,2071,ae4e571d510fa7fae74229c8eb550aead36b866b,False,Move Class
+apache/cloudstack,2071,ae4e571d510fa7fae74229c8eb550aead36b866b,False,Move Class
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Extract Method
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Change Variable Type
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Rename Variable
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Rename Parameter
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Extract Method
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Rename Parameter
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Extract Method
+apache/cloudstack,3454,db8172bc7559fa5213a2db74550848ed84984a9f,True,Extract Method
+apache/cloudstack,3454,59c524595375d731357363b076185400db09148c,False,Split Parameter
+apache/cloudstack,3454,59c524595375d731357363b076185400db09148c,False,Push Down Attribute
+apache/cloudstack,3454,59c524595375d731357363b076185400db09148c,False,Push Down Attribute
+apache/cloudstack,3454,59c524595375d731357363b076185400db09148c,False,Push Down Method
+apache/cloudstack,3454,59c524595375d731357363b076185400db09148c,False,Push Down Method
+apache/cloudstack,3454,c14bad8141495c806a1286c018aefb34bc78fd68,False,
+apache/cloudstack,3454,5f57b472228d615d15388a88c72b5b3955e91d1e,False,
+apache/dubbo,3654,4746c93c4279a3ccf7e2e99ed482c1a24afaf6c0,True,Change Return Type
+apache/dubbo,3654,4746c93c4279a3ccf7e2e99ed482c1a24afaf6c0,True,Change Attribute Type
+apache/dubbo,3654,0de91a0bc2e5b38a189eb5a28233b3a96163fcd5,False,
+apache/dubbo,3654,abecfa1770fcf993c6784e14d3ed6486696d2a6a,False,Move Class
+apache/dubbo,3654,c3f2f197681b450c35e89bcd70f0bda0cc1df0c5,False,
+apache/flink,8222,a593584f36eb3c1b94dea359e59e7616418e8d71,True,Rename Parameter
+apache/flink,8222,a593584f36eb3c1b94dea359e59e7616418e8d71,True,Change Parameter Type
+apache/flink,8222,a593584f36eb3c1b94dea359e59e7616418e8d71,True,Rename Method
+apache/flink,8222,467c42a7308b46f9f27843a8f69075555a50c855,False,Change Return Type
+apache/flink,8222,467c42a7308b46f9f27843a8f69075555a50c855,False,Change Attribute Type
+apache/flink,8222,467c42a7308b46f9f27843a8f69075555a50c855,False,Change Parameter Type
+apache/flink,8222,467c42a7308b46f9f27843a8f69075555a50c855,False,Change Parameter Type
+apache/flink,8222,c89571762b29b27cb05b552bce2054e93d105421,False,Extract Variable
+apache/flink,8222,c89571762b29b27cb05b552bce2054e93d105421,False,Change Return Type
+apache/flink,8222,c89571762b29b27cb05b552bce2054e93d105421,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Class
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Parameter
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Variable
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Variable
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Variable
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Variable
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Variable Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Variable
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Variable Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Merge Parameter
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Attribute Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Return Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Attribute Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Extract Method
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Rename Parameter
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,290001ee6ab292f7d42367af1393c91f13d119e3,False,Change Parameter Type
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Attribute
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Method
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Method
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Method
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Method
+apache/flink,8222,7187eab692f8041ec9992b8c28f0f511a76b4b2a,False,Pull Up Method
+apache/flink,8222,78a986bb2f0efe2e28e5ccb9462bb36654993b31,False,
+apache/incubator-iceberg,119,5361738906b28e2938e53a7278259820f136f7e7,True,
+apache/incubator-iceberg,119,8508e99b03cc92349aa75ad06d02e1e7bc673f38,False,
+apache/incubator-iceberg,119,a3c3cbec1eb365b285710aafa6c8ff3230cbd080,False,
+apache/incubator-iceberg,119,9c299503b6fb2d9888d9e100cf744ed6a2818b36,False,Move And Rename Class
+apache/incubator-iceberg,119,9c299503b6fb2d9888d9e100cf744ed6a2818b36,False,Rename Attribute
+apache/incubator-iceberg,119,9c299503b6fb2d9888d9e100cf744ed6a2818b36,False,Rename Attribute
+apache/incubator-iceberg,119,9c299503b6fb2d9888d9e100cf744ed6a2818b36,False,Change Attribute Type
+apache/incubator-iceberg,119,0076410039ad6f7b00aab46f85c2476b8374cee4,False,Extract Method
+apache/incubator-iceberg,119,190371039dea0efc2eb393f0bfa5d32da1f83279,False,Change Parameter Type
+apache/incubator-iceberg,119,190371039dea0efc2eb393f0bfa5d32da1f83279,False,Extract Method
+apache/incubator-iceberg,119,e09fc34d6ba67172ecd8e2da484fdc3006b06411,False,Change Return Type
+apache/incubator-iceberg,119,e09fc34d6ba67172ecd8e2da484fdc3006b06411,False,Rename Parameter
+apache/incubator-iceberg,119,e09fc34d6ba67172ecd8e2da484fdc3006b06411,False,Change Parameter Type
+apache/incubator-iceberg,119,e09fc34d6ba67172ecd8e2da484fdc3006b06411,False,Rename Method
+apache/incubator-iceberg,183,ee6b32a58c7d4efff8401d975edf7008e648b4bc,True,
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Extract Superclass
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Pull Up Method
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Pull Up Attribute
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Pull Up Method
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Change Parameter Type
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Pull Up Attribute
+apache/incubator-iceberg,183,316dd34d6235db67bc85b0e16d678367a68fb7ea,False,Pull Up Method
+apache/incubator-iceberg,183,0f2bae4a58852f30280c7985e664742a9984cd10,False,
+apache/kafka,4735,b5fd8d0612f4b2d2cae4c6c67f4650be4d6a25ee,True,
+apache/kafka,4735,31ac5ba9fde30647f9670dc22a468c043e1d0253,False,Extract Variable
+apache/kafka,4735,31a5743294cde89c72c4a66fe3d16a1f56f8f588,False,
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Attribute Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Variable Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Change Variable Type
+apache/kafka,4735,27a15c620318cfd226f0853a2a7b44284caeeeee,False,Extract Superclass
+apache/kafka,4735,cbe4e5bde41e56ef8f37060038e4dc4fea745ce6,False,
+apache/kafka,4735,6c1db27710045cbb7d48fefd32793009c499e8d3,False,
+apache/kafka,4757,1d1f103c190072de5d81022999d393b007038324,True,
+apache/kafka,4757,6c27aaadd459a01a54206fbfdafa91bbf4425294,False,
+apache/kafka,4757,429ecdb5488e3b1dfb2862717c00158fe7154a16,False,
+apache/kafka,4757,c2992b152dd000a029b23ab6d1807592006dcad2,False,Extract Method
+apache/kafka,4757,590fb5c0c149fa2dc9b4e62b3494041ce8bc66a2,False,Rename Parameter
+apache/kafka,4757,590fb5c0c149fa2dc9b4e62b3494041ce8bc66a2,False,Rename Parameter
+apache/kafka,4757,d9892a73b53133f8af3c4c7bca34303837c31621,False,Extract Method
+apache/kafka,4757,3d116bf18b5d04a17b7fd296b86657843dbe458a,False,
+apache/kafka,4757,decb50d12570a6b7bb43ee09987c8002b3bda36c,False,Extract Method
+apache/kafka,4757,decb50d12570a6b7bb43ee09987c8002b3bda36c,False,Extract And Move Method
+apache/kafka,4757,decb50d12570a6b7bb43ee09987c8002b3bda36c,False,Extract And Move Method
+apache/kafka,4757,decb50d12570a6b7bb43ee09987c8002b3bda36c,False,Extract And Move Method
+apache/kafka,4757,945965509a628a246e9a742e8384401e1d687ecc,False,Pull Up Method
+apache/kafka,4757,945965509a628a246e9a742e8384401e1d687ecc,False,Pull Up Method
+apache/kafka,4757,8a53398eb880eb56c9f85278e00d09f059b43b7f,False,
+apache/kafka,5590,6541696c0ea4a75f194c500c4774d3634f7838d6,True,
+apache/kafka,5590,4d04c17c80af318e7cbe6d8758a1198ed58adbac,False,Extract Interface
+apache/kafka,5590,6800fd914d41f30bf3bb2270baefe1924966d97a,False,
+apache/kafka,5590,db7def3e00f0b9215ac5daca6ff94918b78ff07e,False,Rename Attribute
+apache/kafka,5590,9f1710a4a49c23eb65688ee83b77674963e819a1,False,
+apache/kafka,6657,0bef531f3812eada7bec8c5a20f854cc91772fe3,True,
+apache/kafka,6657,064d33004fc42be091e18347b36d6ca68c83236e,True,
+apache/kafka,6657,7d6b2d7051cbfc204697433f2b6bde213505fe7b,True,
+apache/kafka,6657,1a8c803d5dcad5d8d4e4075b3befac499c4668a2,False,
+apache/kafka,6657,8bac4954f2a00eede6a01a21a3db025a6d942d43,False,Pull Up Attribute
+apache/kafka,6657,0a1c1832e39a192f93d30fc9f29a6800a53cee13,False,
+apache/kafka,6657,2d10427737ab5acfd93a99d19eba0b3053879715,False,
+apache/servicecomb-java-chassis,678,a9fa862360f9f8d33edffe072814feffd2c301af,True,Extract Variable
+apache/servicecomb-java-chassis,678,7ba86fc35d359d93f8666e6c95109685929fb0bb,False,Change Attribute Type
+apache/servicecomb-java-chassis,678,1a63868e8ddef89465c4c1affc347d1495020452,False,
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Replace Variable With Attribute
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Replace Variable With Attribute
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Change Variable Type
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Extract Class
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Move Attribute
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Move Attribute
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Move Attribute
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,ecba65107ca72299d38ded981fd1bc8ab152e244,False,Push Down Method
+apache/servicecomb-java-chassis,678,d08c751fea23364c603f7edf322ba3acfb9c7729,False,Rename Attribute
+apache/servicecomb-java-chassis,678,533dcc88019220c8b409837024bd592f718d56b4,False,Rename Method
+apache/servicecomb-java-chassis,678,fe93632d08f746b46c3cd3bc20052b061f51cf53,False,Rename Attribute
+apache/servicecomb-java-chassis,678,fe93632d08f746b46c3cd3bc20052b061f51cf53,False,Change Attribute Type
+apache/servicecomb-java-chassis,678,fe93632d08f746b46c3cd3bc20052b061f51cf53,False,Rename Attribute
+apache/servicecomb-java-chassis,678,fe93632d08f746b46c3cd3bc20052b061f51cf53,False,Change Attribute Type
+apache/servicecomb-java-chassis,678,d3f39df232400d5ef34e462ef582bf0d60139b98,False,Change Variable Type
+apache/servicecomb-java-chassis,678,d3f39df232400d5ef34e462ef582bf0d60139b98,False,Rename Variable
+apache/servicecomb-java-chassis,678,d3f39df232400d5ef34e462ef582bf0d60139b98,False,Change Variable Type
+apache/servicecomb-java-chassis,678,d3f39df232400d5ef34e462ef582bf0d60139b98,False,Rename Variable
+apache/servicecomb-java-chassis,678,b6c65f73f0eb7ef2fe6ebf97e3d7e7e8453a6e49,False,Rename Variable
+apache/servicecomb-java-chassis,678,b6c65f73f0eb7ef2fe6ebf97e3d7e7e8453a6e49,False,Rename Parameter
+apache/servicecomb-java-chassis,678,b6c65f73f0eb7ef2fe6ebf97e3d7e7e8453a6e49,False,Change Attribute Type
+apache/servicecomb-java-chassis,678,f8095bffc1c00ead662f784fdd9adc8cdad9fae0,False,
+apache/usergrid,102,b6a83a4ec3ea65e72093b4b97ba1e70dd2eb757b,True,
+apache/usergrid,102,3073fe811f97d95a311ebcd9a13eceb7b0a683e7,True,Extract Variable
+apache/usergrid,102,39b157651b1316d7e1c76e592f5a2774a775f7f6,True,
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Move Class
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Extract Class
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Push Down Attribute
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Push Down Attribute
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Move Attribute
+apache/usergrid,102,2bd1c950f6fab093d458e6c3a55fb7fb8ff28e79,False,Move Attribute
+apache/usergrid,102,8beab4489672e403462ecdc9bfe6f3061954c076,False,Extract Superclass
+apache/usergrid,102,bc0a900563249afa9c857b0401264e961d6e4458,False,
+apache/usergrid,102,eb91d13eed6deab5b5bb94ccb31add69a04c104a,False,
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,262ad8ba3a0ab9e743b6b0013725f1079d014d52,False,Rename Method
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Change Attribute Type
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Change Attribute Type
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Change Attribute Type
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Change Attribute Type
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Rename Method
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Rename Method
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Rename Method
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Rename Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Rename Method
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Push Down Attribute
+apache/usergrid,102,68f4e0f1a4942248a1f41c3c61d97fbf93440010,False,Pull Up Method
+apache/usergrid,102,9ed796423f15a8ef33137b113f6e04c578994b21,False,Change Return Type
+apache/usergrid,102,9ed796423f15a8ef33137b113f6e04c578994b21,False,Move Attribute
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,364a6ea6737194a1dd266b6d0e89abb4a40ddf96,False,Extract And Move Method
+apache/usergrid,102,e32d5212af3c53cc84c9a505cb9bb6824e6a16f2,False,
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Move Class
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Rename Attribute
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Inline Variable
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Extract Superclass
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Pull Up Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Pull Up Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Pull Up Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Pull Up Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Push Down Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Move Method
+apache/usergrid,102,fb90ae705c29ee2cf61063d57f1e4e97d05ee5aa,False,Move Method
+apache/accumulo,151,8611f1c1a4a03fd34f8e201104e2b11f24168c49,True,
+apache/accumulo,151,0f1bc29b682c574b544c2eee366fa8ae1f53fb43,True,
+apache/accumulo,151,d2b1ddc3b42dde1550000244c8bdc67c98d31c07,False,Extract Variable
+apache/accumulo,151,d2b1ddc3b42dde1550000244c8bdc67c98d31c07,False,Rename Variable
+apache/kafka,5946,8accf70c1e13a2835f133f10bfec96d313558bff,True,
+apache/kafka,5946,2aad0a6cffe01f043589ed694e96c5edbbed5cc6,True,
+apache/kafka,5946,9570bc8f484592ec288a6e91c747e48dcd6d3fa0,False,
+apache/kafka,5946,8f6eed132fde9810bd530b6af75e4aea40a34965,False,
+apache/kafka,5946,46e56c450bffabdff7c432dcac919f85b116cd00,False,Rename Variable
+apache/kafka,5946,d6d58a76578be2fd1795591543901519865c9065,False,
+apache/kafka,5946,c355325a89f9afe3daf0976385c9032dac019311,False,
+apache/kafka,5946,18fc9f98f90870a52c491b5c3b22c98f4fd8276a,False,Extract Variable
+apache/kafka,4574,e97ced44f53832cc5ce0f5d2f27ecb54a7e20850,True,Change Parameter Type
+apache/kafka,4574,e97ced44f53832cc5ce0f5d2f27ecb54a7e20850,True,Inline Method
+apache/kafka,4574,e97ced44f53832cc5ce0f5d2f27ecb54a7e20850,True,Change Variable Type
+apache/kafka,4574,6c54814fd6520d522a0f1252aebd35ec2cf0b7f4,False,Change Variable Type
+apache/kafka,4574,d8f13c27e1d6d6d28b5577db67685ff45bfbe53d,False,Change Parameter Type
+apache/kafka,4574,d8f13c27e1d6d6d28b5577db67685ff45bfbe53d,False,Change Parameter Type
+apache/kafka,4574,d8f13c27e1d6d6d28b5577db67685ff45bfbe53d,False,Change Parameter Type
+apache/kafka,4574,d8f13c27e1d6d6d28b5577db67685ff45bfbe53d,False,Change Variable Type
+apache/kafka,4574,908561c86d71fae12f4c44e3c55d635f8ba09af4,False,
+apache/kafka,4574,0fbd729e630fa4e6f511cb89988bd981e45f7a0d,False,
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Extract Method
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Rename Variable
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Extract Method
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Extract Method
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Change Variable Type
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Change Variable Type
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Rename Variable
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Rename Variable
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Rename Variable
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Move And Rename Attribute
+apache/knox,69,47e8e7e301e26d3a85fc4c233cc61b052c1d26c1,True,Move And Rename Attribute
+apache/knox,69,c2ddcb95dd25057c4d176956636a0bc8b891a300,False,Change Parameter Type
+apache/knox,69,c2ddcb95dd25057c4d176956636a0bc8b891a300,False,Change Variable Type
+apache/avro,525,f2ee12b4c252cb973fcf1c5efeaae05a555cbb57,True,
+apache/avro,525,96dce7cf5686a3c4d3d8413e177ec84803e0ca78,True,
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Class
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Class
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Class
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Class
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Change Return Type
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Change Return Type
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Method
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Attribute
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Attribute
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Change Attribute Type
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Attribute
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Rename Attribute
+apache/avro,525,a16efcd1e5c42ad42ab6bf9b0aeeb3639df91869,True,Change Attribute Type
+apache/avro,525,012132c8af2b29cf6bb311d716fa5d865449a7d7,False,
+apache/avro,525,2e7fae7bfe17551574fdd47fe81398911282e1b8,False,Rename Method
+apache/avro,525,afd3196691febe3d2af2779d0953b2e11403f5ea,False,Extract Variable
+apache/avro,525,03b4cebfdde505edc7409dede66d11ef791f7c12,False,
+apache/avro,525,213c5ef2ba5cd614b87d6182a9aca4c265db8eb1,False,
+apache/avro,525,295f223fed8da47c8b675a61a05eaa8ceee46c36,False,
+apache/avro,525,bc0c645ee8cd37f4734005bc6577a8934207bf31,False,
+apache/avro,525,ca9d60efcfc79301ecec5590557c67d07986e1ac,False,
+apache/flink,7165,087123b47826ca680db3b7b398716c3b3da403a5,True,
+apache/flink,7165,afcd3415f90ba201339387c094173bb6b1005e5e,False,Rename Method
+apache/flink,7165,afcd3415f90ba201339387c094173bb6b1005e5e,False,Extract Variable
+apache/flink,7165,5431c867f02369940a966b66b8875e2fc762344d,False,
+apache/kafka,5501,285a3446e1eb7f65c4faed49125d111de1db286a,True,Rename Parameter
+apache/kafka,5501,285a3446e1eb7f65c4faed49125d111de1db286a,True,Change Parameter Type
+apache/kafka,5501,285a3446e1eb7f65c4faed49125d111de1db286a,True,Rename Parameter
+apache/kafka,5501,285a3446e1eb7f65c4faed49125d111de1db286a,True,Change Parameter Type
+apache/kafka,5501,285a3446e1eb7f65c4faed49125d111de1db286a,True,Rename Method
+apache/kafka,5501,7ca1fee9d5d7793e01dc2ef6cffc2dee974f64b8,False,
+apache/kafka,5501,364416ab2bc8dbf0f099c00c4c1437812e2ad2ca,False,Rename Method
+apache/kafka,5501,364416ab2bc8dbf0f099c00c4c1437812e2ad2ca,False,Extract Method
+apache/kafka,5501,3480c8bbd834bcaf32ebc3f564af3ffec3315820,False,Rename Method
+apache/kafka,5501,dfb389965e800b1b63a655207d4938982d072f42,False,Extract Method
+apache/kafka,5501,976f1fcfd9c94923f17b7e08d813a2662948610e,False,Rename Method
+apache/flink,8620,643c6bc4663813f658ace479e890f2bd65dc38de,True,Extract Method
+apache/flink,8620,a767cde47502bff7bda553b95b7a9ec3f6a03a12,False,Rename Method
+apache/flink,8620,a767cde47502bff7bda553b95b7a9ec3f6a03a12,False,Extract Method
+apache/dubbo,3257,78b3327d64f0e8d83df418dc06f009b8ec758380,True,
+apache/dubbo,3257,482fe75594178a64b2a30a865531b64312bf85b9,False,Rename Method
+apache/dubbo,3257,482fe75594178a64b2a30a865531b64312bf85b9,False,Rename Method
+apache/dubbo,3257,482fe75594178a64b2a30a865531b64312bf85b9,False,Rename Parameter
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Extract Method
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Extract Attribute
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Rename Variable
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Rename Variable
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Extract Method
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Extract Variable
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Rename Variable
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Rename Attribute
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Change Attribute Type
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Change Variable Type
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Rename Variable
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Change Variable Type
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Change Variable Type
+apache/kafka,6848,fe3c68b51abf5d9aba69d1581e57734ef4808574,True,Change Variable Type
+apache/kafka,6848,a46c0e1af8dd0a20eae0cf8b78d7d2dfa562c8b0,False,
+apache/kafka,6848,6586caf872f399d5002633d906672fbf4bcf5e06,False,Rename Method
+apache/kafka,6848,6586caf872f399d5002633d906672fbf4bcf5e06,False,Rename Method
+apache/kafka,6848,6586caf872f399d5002633d906672fbf4bcf5e06,False,Rename Method
+apache/kafka,6848,166ec22f7b131b5f2501287ce2d7022e67575f0e,False,Rename Parameter
+apache/brooklyn-server,964,9539ccf65fecf5abd944b371ee36fb5a265484e7,True,Extract Variable
+apache/brooklyn-server,964,ff38a5c80c0d77b81316623d749b76bf3dd1a78e,True,
+apache/brooklyn-server,964,492ebd58552b8f691ee22e0dd76e535fea56ef2c,True,
+apache/brooklyn-server,964,49ee11d6c90620cf935330249b1c6d5ea9351d27,False,Rename Attribute
+apache/brooklyn-server,964,49ee11d6c90620cf935330249b1c6d5ea9351d27,False,Rename Method
+apache/brooklyn-server,964,49ee11d6c90620cf935330249b1c6d5ea9351d27,False,Rename Attribute
+apache/struts,43,30df43f1fa01ecbbc021d47cadb3cd759bdba8f9,True,Extract Method
+apache/struts,43,30df43f1fa01ecbbc021d47cadb3cd759bdba8f9,True,Extract Method
+apache/struts,43,30df43f1fa01ecbbc021d47cadb3cd759bdba8f9,True,Extract Method
+apache/struts,43,30df43f1fa01ecbbc021d47cadb3cd759bdba8f9,True,Extract Method
+apache/struts,43,30df43f1fa01ecbbc021d47cadb3cd759bdba8f9,True,Extract Method
+apache/struts,43,a778ba1a3d4ff03ed4103569937317bf1dafb2bd,False,Rename Attribute
+apache/struts,43,88bfeb556d10dbb8ea4734e2e80dc40beca13645,False,
+apache/struts,43,f18e24d2ac310a043025a8ace1c6b01d4dd179b6,False,Rename Method
+apache/cloudstack,2833,0ecc61aafa9c5d08e2da9603c4e10618c2ae35d8,True,
+apache/cloudstack,2833,df9d31030ec06d55937918f6147653b131942dfa,False,Change Variable Type
+apache/cloudstack,2833,df9d31030ec06d55937918f6147653b131942dfa,False,Rename Variable
+apache/cloudstack,2833,fa144f2f8b34b0f48378137ec6e93e4064081522,False,
+apache/dubbo,3174,d56d8d9d323958c8709d36aff0a0769019521d43,True,
+apache/dubbo,3174,abe5600e6c1ff0a594cad36b5f8b1cc029d7e9c1,False,
+apache/dubbo,3174,c8c1f7b44c4fcb1db7a665d811917fa2d7aff31c,False,
+apache/dubbo,3174,6d1c1227b3aad22ecd54c050a9054d98799e63d7,False,Change Variable Type
+apache/dubbo,3174,6d1c1227b3aad22ecd54c050a9054d98799e63d7,False,Rename Variable
+apache/dubbo,3174,a19cb2ab9426a76d68038634ccdb8488647f42d5,False,Change Variable Type
+apache/dubbo,3174,a19cb2ab9426a76d68038634ccdb8488647f42d5,False,Rename Variable
+apache/dubbo,2445,5054b3b5cf13b22572297278daaae73530275abf,True,Change Variable Type
+apache/dubbo,2445,5054b3b5cf13b22572297278daaae73530275abf,True,Rename Variable
+apache/dubbo,2445,80e7a8ac356ba9135abb4c0ec0c3d1cdb4b96344,False,
+apache/dubbo,2445,fc521dd13db5246b8d0e6dae87206f15929fd8f6,False,Change Attribute Type
+apache/dubbo,2445,1b58dbe8a021582413945c1e769f6ab53d963fbc,False,Rename Variable
+apache/dubbo,2445,1b58dbe8a021582413945c1e769f6ab53d963fbc,False,Rename Variable
+apache/dubbo,2445,43c377fb7f866c1a0ac4ada53382f8f20ff88a90,False,
+apache/kafka,4796,363159006d5389e0968a653a5d06e27c3fd87fa9,True,
+apache/kafka,4796,28fe14f3d5dd83c4a88a00c66eaca46d757428c0,False,Rename Variable
+apache/kafka,4796,28fe14f3d5dd83c4a88a00c66eaca46d757428c0,False,Rename Variable
+apache/kafka,4796,28fe14f3d5dd83c4a88a00c66eaca46d757428c0,False,Change Attribute Type
+apache/kafka,4796,5e02dacc91933e526d06c5ace89104209c57f744,False,
+apache/kafka,4796,8c7418f407bf209a89a9ac39b291274ac3674754,False,
+apache/kafka,4796,0cffbb574057326184b3234be3883711bd9aff82,False,
+apache/dubbo,4099,9a427801b3c03798de1036f2e3f1646a6c7b7cca,True,
+apache/dubbo,4099,77d802ec3cb65ff571df6445ba5fc647cd8b7ff2,False,
+apache/dubbo,4099,5c73899641d1e7fb1d427f95083d7357935d27e9,False,
+apache/dubbo,4099,b2dbff3043592f002c9038413034c85b31d33f0e,False,
+apache/dubbo,4099,737da2b9bcf12927fe9cca7c044ecc4d2635f9a3,False,
+apache/dubbo,4099,839f7a34451560f75a71eb3f7e6f0b70f94b8718,False,
+apache/dubbo,4099,bc41e2d00c98a2d2e44a7c175e69a7d699bf78ba,False,Move Class
+apache/dubbo,4099,4c8516c9f483e41ef52c929877ded17100b10d14,False,Change Package
+apache/dubbo,4099,4c8516c9f483e41ef52c929877ded17100b10d14,False,Move Class
+apache/dubbo,4099,4c8516c9f483e41ef52c929877ded17100b10d14,False,Move Class
+apache/dubbo,4099,ab6a81827041443e6cbabbcc79ddea65373ed157,False,
+apache/dubbo,4099,beb570d4941a2c53471a591b189ae66469d88ce3,False,
+apache/dubbo,4099,f4a54909d0deee69fcc4cef48a893baf3f7b0e55,False,
+apache/tomee,407,898af3bf7ae1877aa2f59ea19c4b337af4707112,True,
+apache/tomee,407,33e7b743cdef618f544ea66feefcc8238697eae4,True,
+apache/tomee,407,3d22d4342357eb5a118716c71d4ec05e61007221,False,Change Package
+apache/tomee,407,3d22d4342357eb5a118716c71d4ec05e61007221,False,Move Class
+apache/tomee,407,3d22d4342357eb5a118716c71d4ec05e61007221,False,Move Class
+apache/tomee,407,3d22d4342357eb5a118716c71d4ec05e61007221,False,Move Class
+apache/tomee,407,bdf65b0398ffa1ba034e0b4632e5bb58d64aa83b,False,
+apache/tomee,407,abb85c55b4e9acb8cd16466b2858d1bbaae93f5e,False,
+apache/kafka,6853,7005573c7e181527df7a8b6af79aa72efb46635e,True,
+apache/kafka,6853,d4c2a4ad3c72b1d2a0f38a44a6bd581ce7391472,False,Rename Parameter
+apache/kafka,6853,c5b55c532d032360a1412bbbce5245eb95297f03,False,Change Parameter Type
+apache/kafka,6853,3e043ac09b0992f26218fb1912a79075d646aa22,False,
+apache/knox,74,7feeb53a7e4d5b1f636651d0bd9b40ba61cc4853,True,Extract Method
+apache/knox,74,7feeb53a7e4d5b1f636651d0bd9b40ba61cc4853,True,Extract Variable
+apache/knox,74,7feeb53a7e4d5b1f636651d0bd9b40ba61cc4853,True,Rename Variable
+apache/knox,74,99dea2bb78b4fe68133419064af1adccca7f2b74,False,Rename Parameter
+apache/knox,74,99dea2bb78b4fe68133419064af1adccca7f2b74,False,Change Parameter Type
+apache/logging-log4j2,213,67c2e2247d2b4a0346d12f50c0830c28f62e2913,True,
+apache/logging-log4j2,213,6bb9b4e54262ada9088c4d7d14759e14b5eb2356,True,
+apache/logging-log4j2,213,ffbddf79a7eae9e13b9ba20fee3929c73fe4834a,True,
+apache/logging-log4j2,213,06df89368ec473be5e5fe9ab9f900b3161d33b5b,True,
+apache/logging-log4j2,213,fb94167be23a2a25315862e52060e775fcf8ed84,True,
+apache/logging-log4j2,213,b5e2cbaf1af100c875a80f11ee62e1b4561130da,True,
+apache/logging-log4j2,213,c7d70a8f37ea218e57a1eee0f41501ce5fce2362,False,
+apache/logging-log4j2,213,14badeae425ee76196c5eb0abadfca99eb282a11,False,
+apache/logging-log4j2,213,b485a190e329c6b2552544888feb64641c249185,False,Extract Method
+apache/logging-log4j2,213,b485a190e329c6b2552544888feb64641c249185,False,Rename Attribute
+apache/logging-log4j2,213,b485a190e329c6b2552544888feb64641c249185,False,Rename Attribute
+apache/logging-log4j2,213,c21a5dd1f7c6f057601a700f3c5b68daf79f1161,False,
+apache/tinkerpop,1110,138a4a9b49c696acb8ab2a348e4ccd712dca94b0,True,Extract Method
+apache/tinkerpop,1110,138a4a9b49c696acb8ab2a348e4ccd712dca94b0,True,Extract Variable
+apache/tinkerpop,1110,bebd9e72c6a32736d890c0029d6581143ee5e139,True,
+apache/tinkerpop,1110,9d7bcebe8ca22fbeead04e1f7fc9c9092c06137b,False,Extract Method
+apache/tinkerpop,1110,128662ba0ba7368f36bdd6d68243de4fa3dc82ae,False,Rename Attribute
+apache/rocketmq-externals,45,f95b989438d863259192d85946ca02b7bcee73ac,True,
+apache/rocketmq-externals,45,6080c634bbadd975ad215f3e57a0f05cabe9d7b1,False,Move Class
+apache/rocketmq-externals,45,6080c634bbadd975ad215f3e57a0f05cabe9d7b1,False,Move Class
+apache/rocketmq-externals,45,6080c634bbadd975ad215f3e57a0f05cabe9d7b1,False,Move Class
+apache/rocketmq-externals,45,fb0875657d6b04f735cf060e59fc665ced780674,False,Rename Class
+apache/rocketmq-externals,45,fb0875657d6b04f735cf060e59fc665ced780674,False,Rename Class
+apache/rocketmq-externals,45,09d9cd9d066619e946d720489e2e3cd12795a5b9,False,
+apache/tomee,89,2b72bc89d949420183329dd559c274435c2b1d06,True,
+apache/tomee,89,85799f936236b21f684e27dbb5c770c7a3f45997,True,
+apache/tomee,89,0d1e10edd6449688fe24e940f71098b46df9ca24,True,Change Return Type
+apache/tomee,89,0d1e10edd6449688fe24e940f71098b46df9ca24,True,Change Attribute Type
+apache/tomee,89,0d1e10edd6449688fe24e940f71098b46df9ca24,True,Change Parameter Type
+apache/tomee,89,0d1e10edd6449688fe24e940f71098b46df9ca24,True,Change Variable Type
+apache/tomee,89,0d1e10edd6449688fe24e940f71098b46df9ca24,True,Rename Variable
+apache/tomee,89,9c14be978c5118469ecae558ed21e1277844af17,True,Move Method
+apache/tomee,89,9c14be978c5118469ecae558ed21e1277844af17,True,Move Method
+apache/tomee,89,f7e0578aa0a97d99be24efa68ace696824b3a419,True,
+apache/tomee,89,3efb124a575d77570d26971cac38e458cacedc9d,True,
+apache/tomee,89,1e87ba3adb1720270f9edf77d9d2bd6f6c0e0c99,True,
+apache/tomee,89,b57641372214ab5dce8e0e446f815cd1fdd87603,True,Rename Method
+apache/tomee,89,c73a5a910836635b4e9b5b08293d8b3cb03edfe6,True,
+apache/tomee,89,209262230cb9f1c241a75fcfa820ad39e1586bc9,True,
+apache/tomee,89,6a0d6390e6c776486b98924333fd9bd356ec45ee,True,Rename Method
+apache/tomee,89,bf3a4ef6b61fc314cb5d7392612a011ba1e8acff,False,
+apache/tomee,89,13b1458b4bcf4e960956af8d28046ba9925a8821,False,
+apache/tomee,89,0c1f96a02e78e1c4cdb822d0a7ffaf57fdfabb08,False,
+apache/tomee,89,2cac5ad77037c8ab3434e5ec4ecaa42d5be54e77,False,
+apache/tomee,89,8dbaee9ef489228bbc64b9c6d625404f32db876b,False,
+apache/tomee,89,c6da93c10b86ce3d7950160168138b6a48525e07,False,
+apache/tomee,89,7fcd0ee000a85ba9a0a054480acccb56bea9aa16,False,
+apache/tomee,89,1909894a486d12483b47b4867f7bcd7461105b5d,False,
+apache/tomee,89,86f20fec7b6d6b09e52c346e738dad0215b7afaa,False,Move Class
+apache/tomee,89,86f20fec7b6d6b09e52c346e738dad0215b7afaa,False,Rename Class
+apache/tomee,89,86f20fec7b6d6b09e52c346e738dad0215b7afaa,False,Rename Class
+apache/tomee,89,36036ed7fadfd5b49ef6be2b8ac65e0cc0794b5c,False,
+apache/tomee,89,8df8d52f88f59efa9bb5a77c8607a52dd485daea,False,Rename Class
+apache/tomee,89,909fe451528a3b7a6c9a046db2ed8518941a3d79,False,
+apache/tomee,89,0194b931b00baba88b35d105af45faeba62e4676,False,
+apache/tomee,89,d747b890973916a7bd1cb60e68462606b9d13362,False,
+apache/tomee,89,c3ec63447ed420b5c3926b48eac4e8c39c249030,False,
+apache/tomee,89,2418cef4c4fa38c2efde77ecd6de86023c337830,False,
+apache/sling-org-apache-sling-feature-analyser,16,3847feaa94055082c1d96f15583db64adde96d78,True,Extract Class
+apache/sling-org-apache-sling-feature-analyser,16,3847feaa94055082c1d96f15583db64adde96d78,True,Move Method
+apache/sling-org-apache-sling-feature-analyser,16,5ece35f7a8eedd90b798e07dbe651baa36014c18,False,
+apache/sling-org-apache-sling-feature-analyser,16,dbec3dc2ab5dbec318067602131b13e89e943e37,False,
+apache/sling-org-apache-sling-feature-analyser,16,ca583ed15fa877c6fb68535d5311ce2e57fb58cf,False,Extract Method
+apache/sling-org-apache-sling-feature-analyser,16,ca583ed15fa877c6fb68535d5311ce2e57fb58cf,False,Parameterize Variable
+apache/sling-org-apache-sling-feature-analyser,16,b44046c0ecad988d6de9e5376147dd2d4a2a8fa2,False,
+apache/sling-org-apache-sling-feature-analyser,16,90a458831a7d7ea521b201066f85b8ce38dab408,False,
+apache/tika,234,ceb7b42ba2e342e7becb81d0c661ccd6209a915e,True,Extract Method
+apache/tika,234,1fae340976e054bc8206cf79dff8b33758eebe82,True,
+apache/tika,234,d2c412940b976e607b698b598e25481495d0b8e4,False,Extract Method
+apache/tika,234,d2c412940b976e607b698b598e25481495d0b8e4,False,Parameterize Variable
+apache/tika,234,fb4e39323b1d0576ea8066065febae94765a96c2,False,
+apache/kafka,5368,306a24704f13d6e331fc09d1a55b6691af6b86d8,True,
+apache/kafka,5368,77c2b8ce930c2b3f952d93cb188c39e20117b4ea,False,
+apache/kafka,5368,19d77c6a949cbb62138079f1d62d1b7bd11045af,False,
+apache/kafka,5368,2ae84c679dd2c1a413fdf7297e97c181033b55be,False,
+apache/tinkerpop,690,a655e2649ab9a6ba1885dde317d81e845a7507b8,True,
+apache/tinkerpop,690,07280168178a89655dead07a2435fada36eb813e,False,
+apache/accumulo-examples,50,3369f8e9e5069f0ccb88105d9ab40af4bbb3fe65,True,
+apache/accumulo-examples,50,3c3cdb102cadbe4eac4d6378a2c9614db9ed143c,False,
+apache/beam,6317,be5600b0ee80ca33437709ca6912a8dea7539b54,True,
+apache/beam,6317,e7aa13c1b706399e5d156ec68285092d69872f21,False,
+apache/dubbo,3331,4b82c3e148b3db495ede12b9c38ff37a9aa8a4ee,True,
+apache/dubbo,3331,ede7c98d86410b7eb1e10b2069108ec5b7b419dc,False,
+apache/kafka,6758,9ed5e7ecf2b74d55a940dda60f1f911564af1e85,True,
+apache/kafka,6758,519d18be575899ecba00fa86ee05a2c055929fe8,False,
+apache/kafka,6758,738e3b4c98f94684211afea67c68be9990b8cdf4,False,
+apache/kafka,6758,bef0240ac300e4758943a7528773d138edc55589,False,
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Inline Variable
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Rename Variable
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Rename Variable
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Inline Variable
+apache/incubator-pinot,880,df799579a6e9aa4eeb997b62160505a2f16f0ddd,True,Extract Method
+apache/incubator-pinot,880,fb1d540ffda80ed8bce7147651da6ea3f76df98f,False,
+apache/kafka,6427,386709b85074ba2e41282335489e1843c3a61605,True,Extract Variable
+apache/kafka,6427,4f78e775c00a00235d853b09de0146797dc2fa8b,False,
+apache/accumulo-testing,21,52064cf6d1763bfbd0e7f518a0014c6b276b92b1,True,
+apache/accumulo-testing,21,648e38696e9fa1d53164a63d85dae03229307440,False,
+apache/beam,4419,e1da5f2a09fbe4caf5901a1b3d000234fd49582d,True,
+apache/beam,4419,6aeba72f45cc336346e0345d5e6ac38b39f70cfc,False,
+apache/beam,4419,8a472cf6303dea2e9b4530b90aae2e4e741fb234,False,
+apache/beam,4419,456441427352fac88f4a5646465bff7bba88a818,False,
+apache/dubbo,3748,afe19c032861fa6f00b2401fe98d2d9975ad459a,True,
+apache/dubbo,3748,2a22ca8e380fb4bff0fb23b32840750eebdf2aa3,False,
+apache/dubbo,3748,b4310a9aa33f484b2469197a4a125f73dba8e26c,False,
+apache/cloudstack,3333,f6a8e2a4495f2a41274110644b133d96b3e0fa07,True,
+apache/cloudstack,3333,4688c2a8a26cacacfc696821789aa5038c1b3e27,False,
+apache/cloudstack,3333,27334005875ff96db96ca4b6019558997e75d17f,False,
+apache/cloudstack,3333,0582882fea536322a30691cf86cca838fd944d14,False,
+apache/cloudstack,3333,6df717c683c38c9a911da0404d9918296afe9794,False,
+apache/cloudstack,3333,dd99c591d9f126bf691bd966ea65c25f19a77929,False,
+apache/cloudstack,3333,8dcdcb038e34e8faddc700b1f31aa817464e7326,False,
+apache/cloudstack,3333,cc44b56f833d5b9d949f475a062232dc92806293,False,
+apache/cloudstack,3333,62c53cd9224402e6e960c7a3442784d6b4b9e3c7,False,
+apache/cloudstack,3333,4cd031144deaf74e3a1458beb0ce834f5d78dd90,False,
+apache/cloudstack,3333,adf7ca4c6d97cedb3b7e4936456ba12788d63593,False,
+apache/cloudstack,3333,30b5cd1572d561624d5d4de24a85ea37f9076b58,False,
+apache/cloudstack,3333,d42e7de3eb99c23547702061c0bd2895d6b26191,False,
+apache/flink,2096,0d3c738e85fed2e161bc724887a4d8ce06a2798c,True,Rename Method
+apache/flink,2096,c2f0d805c89c26b9a840662477c0c3b7eb0190c5,False,
+apache/flink,2096,06ce4f35633dd8609156e33467daa40d02d77fb1,False,
+apache/flink,2096,284a88ed67903f6557490473fc1238181e9cb3ba,False,
+apache/beam,4261,1212816bedd21f00553ad97f4bb713c607536c23,True,
+apache/beam,4261,b312f87ae302289748871ba580f05a04776fb34b,False,
+apache/beam,4261,41f29f49891cbe066410e114e9b7b9757ded331f,False,
+apache/servicecomb-java-chassis,698,3be7ca65199e43b1ba1218be430fc49add9ad9da,True,
+apache/servicecomb-java-chassis,698,5ca995bbd7edab576366cffbabcfa07256f14274,False,
+apache/kafka,4430,819e1e2870e0d75ca4928dd2a0ae39eeb661f9aa,True,
+apache/kafka,4430,32dd1962741b5784ffdf9a481d85452731563c98,False,
+apache/kafka,4430,4f4728f60d68d61a376113cf4267d7c2c29774b5,False,
+apache/servicecomb-java-chassis,969,3c927ebcaa1a563cb972fcf1d0e47fedbcb74851,True,
+apache/servicecomb-java-chassis,969,c82ae0e935ee4198bd4129fac9cade78e2ddda6c,False,
+apache/cloudstack,3430,4b1a66f0bcc1aac60be9337a358678ce61444042,True,
+apache/cloudstack,3430,3e4fd5d0f0a39e151796c69d74bbf8a0b7d534e0,False,
+apache/cloudstack,3430,069dd9a270fa362e9c185165067a4224300f92d8,False,
+apache/cloudstack,3430,df4eae8d112c703a76b0208546bf8ae41e322e47,False,
+apache/tinkerpop,282,c6b9bc7114aa77b69edf942486517c04794c7d45,True,
+apache/tinkerpop,282,cbd8200aa26ced615ecd6c1d8eb007ea3417b634,False,
+apache/tinkerpop,282,da791aa9b9c772050cf6c7797f28622b7663f1dc,False,
+apache/tinkerpop,282,79009e60d5f35cb4fc92801b23ccc1edec8662cf,False,
+apache/tinkerpop,282,bef52c611fa1484774df02d049d03bb06f7d07f4,False,
+apache/struts,191,dda3facc265d4e1c3b1c60fa2bcc4240953ee35c,True,
+apache/struts,191,6b131550a649106766f45c83279b036544afc58c,False,
+apache/struts,191,a8ecd9bd297670b048dd3d12ee7211d4984db664,False,
+apache/parquet-format,98,1556bf4551c4e75b34a3247cb36957f961d8b768,True,
+apache/parquet-format,98,fe9369a476143a9080038a7328184413d128ea32,True,
+apache/parquet-format,98,56f7a2faad4e85fe87ce4325abbf60e492459bdc,False,
+apache/parquet-format,98,da19cc00d1235a92d478cb503072c93c69e96c70,False,
+apache/plc4x,9,75bf337d024698a9319dcb540fcb24fa3609c092,True,
+apache/plc4x,9,a919e94e9c144d203c947b9e5f7ecd89d8c9890f,False,
+apache/tomee,283,64337e7c97b0a6f3c74416a418b3eb2ef8bee426,True,
+apache/tomee,283,e97d3e966d3f05c941a90fad55bee0da5717e219,True,Extract Method
+apache/tomee,283,87d837c5515b08f14403fea63186eb6535e936a9,True,
+apache/tomee,283,79c9dbb6b00dadfe1c26a69360676a4d5f88583a,True,
+apache/tomee,283,1b5b3c571c3a958084d73e38c4ccce9a28aa8970,True,
+apache/tomee,283,51893f4cabf21af6bbc2afc87de8945f1a3179a9,True,Change Return Type
+apache/tomee,283,51893f4cabf21af6bbc2afc87de8945f1a3179a9,True,Change Return Type
+apache/tomee,283,f210fdc5bae89b5819989c5911056edbaa6b4a2b,True,
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Parameter
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Parameter
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Parameter
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Parameter
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Method
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Change Variable Type
+apache/tomee,283,69406e9c62c3ae9f84f1e6c005a5fa8cf3328a25,True,Rename Variable
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Class
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Class
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Class
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Parameter
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Change Variable Type
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Change Variable Type
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Variable
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Variable
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Merge Parameter
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Rename Parameter
+apache/tomee,283,89b319ef81ff0ea206924e565f652cb618976a92,True,Change Return Type
+apache/tomee,283,758665d2a3d159fc622d52b4cf6da53455b80a3c,True,
+apache/tomee,283,128a9c76ad8a749ae6e4073e670771a823b30612,True,Rename Class
+apache/tomee,283,128a9c76ad8a749ae6e4073e670771a823b30612,True,Rename Parameter
+apache/tomee,283,128a9c76ad8a749ae6e4073e670771a823b30612,True,Change Return Type
+apache/tomee,283,3647d2ce2e3c87a4148a1bfbfba9d8452d82a4d4,True,Inline Variable
+apache/tomee,283,176b95d25e32bbf6d5ad33220b34e2624203bd10,True,
+apache/tomee,283,a1de7ae7a8f06a0e15e18138b5abc33aeae800dd,True,
+apache/tomee,283,cfb51c45edd6cbb10e3528cd1a78dfc7bf4a1064,True,
+apache/tomee,283,9946dfece763c81c4dbf3aab614d5eedb44596cb,True,
+apache/tomee,283,68004b36d8140a822d69230362add911868683ba,True,
+apache/tomee,283,fd73c7c967a2e1a2cedef0ffc245c05b0456ded6,True,
+apache/tomee,283,29ab1f47719b4f63f12ccbc8dcc5df81aeddd6ab,True,
+apache/tomee,283,2befcebab201e847923ae20da7e370d91d14c6b4,True,Extract Method
+apache/tomee,283,f4ccf4ca12cc570668ede182f197befeb4ce45bf,True,
+apache/tomee,283,68e4acb93cf82a2fea8e263b506fd06cba26bab5,True,
+apache/tomee,283,d141a3705914df78328057faa78ce7b1962ba9ad,True,
+apache/tomee,283,7099ae6c9e068732a4f3d0df6b687ee1ac5d5ee3,False,
+apache/tomee,283,e4480ca3072af9c4d2df3de4cc1339be10e6345b,True,
+apache/tinkerpop,893,ec1d05f74fa875e4a07699dc89c3d1956aab586f,True,
+apache/tinkerpop,893,0785090f67ff88a834f77c7181a69594049c65ea,True,
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Parameter
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Attribute
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Parameter
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Attribute
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,ff2773a5ef1eff379cb5f3b809d4677ff64a076d,True,Rename Method
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Return Type
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Extract Variable
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Return Type
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Rename Parameter
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Return Type
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Rename Parameter
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Variable Type
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Variable Type
+apache/tinkerpop,893,d99909c4e19fcb3ec3b8a8c94eb054a4332ad219,True,Change Return Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Class
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Class
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Class
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Return Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Method
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Variable Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Method
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Variable Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Variable Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Variable
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Variable
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Return Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Variable Type
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Rename Parameter
+apache/tinkerpop,893,767d65b9d54f1774b13cc5a61db711268f213ff1,True,Change Return Type
+apache/tinkerpop,893,d181563d24a401ac6550e06d86d78b12a8f16f51,True,
+apache/tinkerpop,893,13e552b289b5266fcb418baaf2ae90626f6055c4,True,Extract Method
+apache/tinkerpop,893,13e552b289b5266fcb418baaf2ae90626f6055c4,True,Extract Method
+apache/tinkerpop,893,13e552b289b5266fcb418baaf2ae90626f6055c4,True,Rename Method
+apache/tinkerpop,893,13e552b289b5266fcb418baaf2ae90626f6055c4,True,Rename Method
+apache/tinkerpop,893,13e552b289b5266fcb418baaf2ae90626f6055c4,True,Rename Method
+apache/tinkerpop,893,be9db8de6a9d2abb5222b7ab5b9326049060e85a,True,
+apache/tinkerpop,893,328737a371f8a2040d02f9c2dbb06d049ce3c881,True,
+apache/tinkerpop,893,ae796378e07925f9385f3ec65c10022b59aab8b5,True,
+apache/tinkerpop,893,9e4da0149247a50277e2a468b0becf892426ce2e,True,
+apache/tinkerpop,893,bd275a7ffa4f0d04634c830aa4f7577375c7944c,True,
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Parameter
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,f148e9331a945e0f4f707ea937b610e5902701c7,True,Rename Method
+apache/tinkerpop,893,576649fd5456f6390bf9481d01438a7e78db083e,True,
+apache/tinkerpop,893,62175c228b77bdbda96c11015f2974828df8f3aa,True,
+apache/tinkerpop,893,6d05805ada657bcb3f50a60aa0c313c29d4611bb,True,Move Class
+apache/tinkerpop,893,6d05805ada657bcb3f50a60aa0c313c29d4611bb,True,Move Class
+apache/tinkerpop,893,5bf19e2d35aa2f050ecca0a7b2190553b0422720,True,
+apache/tinkerpop,893,8187016886b8b699ff107c9b6a7dfe95deb7e4a1,True,Extract Method
+apache/tinkerpop,893,f8e3b8a1df1639405a29f261a9d7da147e88b356,True,
+apache/tinkerpop,893,048ea21c0adf9297233d06222e75c64dbe1fa1ca,True,
+apache/tinkerpop,893,a580b6fda232ce6dd035e4c261a53d0f0dc69f83,True,
+apache/tinkerpop,893,ae3b149789b8a9779d0549cee8a6ca2e2febbd2b,True,
+apache/tinkerpop,893,ff71c6abee0b39d7ee95128c3d64906daad96a76,True,Change Return Type
+apache/tinkerpop,893,ff71c6abee0b39d7ee95128c3d64906daad96a76,True,Rename Method
+apache/tinkerpop,893,94233970f8dc7c5d7b8fdc4b9e7bdbf0ff905c25,True,
+apache/tinkerpop,893,51dc82122af6b8d8c783de58a0451b8b2071c051,True,
+apache/tinkerpop,893,4d979cf8dc4482d574191a76a0c60e281f887563,True,
+apache/tinkerpop,893,c97d747f4b05cef42eb0e53adae50fcdee083a2e,True,
+apache/tinkerpop,893,8fd3bf21efac092f619254245ba83614327c4dcb,True,
+apache/tinkerpop,893,ded7c187480a68b6f7be2d0cb777461f57a2871c,True,
+apache/tinkerpop,893,e6e4413e46594ae8f6d408de4e3d3bd85c228f53,True,
+apache/tinkerpop,893,7f1bf1783efb8a7eca17d0367af66c6289455fd8,True,
+apache/tinkerpop,893,ae3f685ad7af326c9f1282da296e9db49f94da03,True,
+apache/tinkerpop,893,23c71b60cc34c14e9defc6a9a7ab6c57c090460b,False,Extract Variable
+apache/tinkerpop,893,e9ebacfc84aca0e0ac30720bba68939f77c4c5d0,False,
+apache/tinkerpop,893,fdb35c69422f95199563e938ec30a2408d419a58,False,
+apache/tinkerpop,893,38dc70df6db105595784a93ecf5f5726201a962d,False,
+apache/tinkerpop,893,10478be0c9cabb6b20723c3185464977767172bc,False,
+apache/accumulo-examples,19,aad6980168996deb0bb846f4a9bb9409f2e2af35,True,Rename Variable
+apache/accumulo-examples,19,56327db174e4614f0aba152cae2d3ade77c3319e,False,Extract Attribute
+apache/accumulo-examples,19,f57b69e296fda54fd8a8235e4650bcda92ae0d54,False,
