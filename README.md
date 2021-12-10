@@ -197,7 +197,7 @@ The worksheets has the following fields.
 
 ### *Characterizing Refactoring Edits in Refactoring-Inducing Pull Requests*
 
-![StudyThreeDesign](./images/study_three_design.jpg)
+![StudyThreeDesign](./images/study_three_design.png)
 
 #### *Research questions*
 * RQ<sub>1</sub> What types of refactoring edits often take place in pull requests? 
