@@ -192,3 +192,27 @@ The worksheets has the following fields.
 
 * Utils:
   * Python script ([summary-qualitative](study-two/summary_qualitative.py)) for summarizing the rounds of the qualitative analysis
+
+---
+
+### *Characterizing Refactoring Edits in Refactoring-Inducing Pull Requests*
+
+![StudyThreeDesign](./images/study_three_design.jpg)
+
+#### *Research questions*
+* RQ<sub>1</sub> What types of refactoring edits often take place in pull requests? 
+* RQ<sub>2</sub> How are the refactoring edits characterized? 
+
+#### Quantitative data analysis
+* Run the Python script [eda](study-three/eda.py) for gathering results from our quantitative analysis
+  * Input was preset as *refactoring dataset* (Mining of refactoring edis and code review data, Step 2) and *code review dataset* (Step 1) - both available in [./input](study-three/input)
+  * Output: 
+      * The results are displayed on the console, assisted by [plots](study-three/eda/)
+  
+#### Qualitative data analysis
+  * Input was preset as *validated refactorings dataset* (Characterizing code review in refactoring-inducing pull requests, Data analysis) - available in [./input](study-three/input)
+  * Output: 
+      * The results are displayed on the console
+
+* Utils:
+  * Python script ([summary](study-three/summary.py)) for summarizing the samples of refactoring-inducing pull requests
