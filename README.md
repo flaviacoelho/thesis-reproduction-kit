@@ -214,5 +214,5 @@ The worksheets has the following fields.
   * Output: 
       * The results are displayed on the console
 
-* Utils:
+#### Utils
   * Python script ([summary](study-three/summary.py)) for summarizing the samples of refactoring-inducing pull requests
