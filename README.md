@@ -20,7 +20,6 @@ You can also go along the links to get access to our data and results!
 
 ![Data Mining Design](./images/mining_design.png)
 
-
 #### Step 1. Mining of raw pull requests data
 1. Search for Apache's non-archived Java repositories in [GitHub](https://github.com/search), by inputting *"user:apache language:java archived:false"* `We performed this search in August 2019`
 1. Run the Python script [githubMinerPygithub](Step1/githubMinerPygithub.py)
@@ -143,6 +142,10 @@ We applied one-hot encoding for binning of features, as described below.
       
 * (Qualitative analysis) Utils:
   * Python script ([summary-qualitative](study-one/step-2/qualitative-analysis/summary_qualitative.py)) for summarizing the qualitative analysis
+
+
+#### Paper using these mined data
+> *F. Coelho, N. Tsantalis, T. Massoni, and Everton L. G. Alves. 2021. An Empirical Study on Refactoring-Inducing Pull Requests. In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '21). Virtual. Article 9, 1–12. [https://doi.org/10.1145/3475716.3475785](https://doi.org/10.1145/3475716.3475785)*
 
 ---
 
