@@ -76,9 +76,12 @@ The recovery of squashed commits from GitHub was built in lines 33-45, 126-130, 
       * A Python script ([githubMinerAuthoredData](data-mining-design/step-3/githubMinerAuthoredData.py)) for marking the initial commits in the complete refactorings dataset, resulting in [output_final_refactorings_at_apache.csv](data-mining-design/step-3/results/output_final_refactorings_at_apache.zip)
       * A Python script ([githubMinerCommitsData](data-mining-design/step-3/githubMinerCommitsData.py)) for mining the number of file changes, line additions, and line deletions in subsequent commits of our sample, resulting in an updated *code review dataset* [output_reviewing_at_apache.csv](data-mining-design/step-3/output/output_reviewing_at_apache.csv)
       * A Python script ([githubMinerParentsData](data-mining-design/step-3/githubMinerParentsData.py)) for mining the number of parents in subsequent commits of our sample, resulting in an updated *code review dataset* [output_reviewing_at_apache.csv](data-mining-design/step-3/output/output_reviewing_at_apache.csv)
-      * A Python script ([githubMinerCheckingRebase](data-mining-design/step-3/githubMinerCheckingRebase.py)) for searching for commit merge in subsequents commits of our sample, resulting in an updated *code review dataset* [output_reviewing_at_apache.csv](data-mining-design/step-3/output/output_reviewing_at_apache.csv)
+      * A Python script ([githubMinerCheckingRebase](data-mining-design/step-3/githubMinerCheckingRebase.py)) for searching for commit merge in subsequent commits of our sample, resulting in an updated *code review dataset* [output_reviewing_at_apache.csv](data-mining-design/step-3/output/output_reviewing_at_apache.csv)
       
-`After, we performed a manual inspection of pull requests searching for rebasing. Accordingly, the code review dataset consists of pull requests that did not suffer rebase, merged by either merge pull request or squash and merge option.`
+`After, we manually inspected pull requests, searching for rebasing. Accordingly, the code review dataset consists of pull requests that did not suffer rebase, merged by either merge pull request or squash and merge option.`
+
+#### Paper using these mined data
+> *F. Coelho, N. Tsantalis, T. Massoni, and Everton L. G. Alves. 2021. An Empirical Study on Refactoring-Inducing Pull Requests. In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '21). Virtual. Article 9, 1–12. [https://doi.org/10.1145/3475716.3475785](https://doi.org/10.1145/3475716.3475785)*
 
 ---
 
@@ -142,10 +145,6 @@ We applied one-hot encoding for binning of features, as described below.
       
 * (Qualitative analysis) Utils:
   * Python script ([summary-qualitative](study-one/step-2/qualitative-analysis/summary_qualitative.py)) for summarizing the qualitative analysis
-
-
-#### Paper using these mined data
-> *F. Coelho, N. Tsantalis, T. Massoni, and Everton L. G. Alves. 2021. An Empirical Study on Refactoring-Inducing Pull Requests. In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '21). Virtual. Article 9, 1–12. [https://doi.org/10.1145/3475716.3475785](https://doi.org/10.1145/3475716.3475785)*
 
 ---
 
